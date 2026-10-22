@@ -1,0 +1,37 @@
+{
+  "name": "GTA Entry-Level Job Tracker",
+  "timezone": "America/Toronto",
+  "lookback_days": 42,
+  "daily_lookback_days": 7,
+  "results_per_board": 20,
+  "stale_after_days": 14,
+  "verification_budget": 60,
+  "verification_max_age_days": 7,
+  "preferred_cities": ["brampton", "mississauga", "toronto", "etobicoke", "north york"],
+  "commute_review_cities": ["oakville", "milton", "vaughan", "woodbridge", "scarborough", "richmond hill", "markham", "burlington", "caledon", "concord"],
+  "exclude_title_patterns": ["pharma", "pharmacy", "pharmacist", "intern\\b", "internship", "co-op student", "student,", "registered nurse", "physician", "director", "vice president", "senior manager", "architectural", "engineer", "software developer"],
+  "categories": {
+    "Administration": ["administrative", "administration", "office assistant", "office coordinator", "receptionist", "executive assistant", "scheduling", "housing assistant"],
+    "Records and documents": ["records", "document", "imaging", "data entry", "file clerk", "file maintenance", "clerical", "clerk"],
+    "Communications and marketing": ["communication", "marketing", "social media", "brand coordinator", "public relations", "campaign"],
+    "Client services": ["customer service", "client service", "client support", "customer support", "customer experience", "customer relations", "information services", "member service", "intake"],
+    "Programs and community": ["program assistant", "program coordinator", "program support", "outreach", "constituency", "community coordinator", "research assistant", "policy assistant", "operations assistant", "operations coordinator"]
+  },
+  "queries": [
+    {"term": "administrative assistant", "location": "Brampton, ON"},
+    {"term": "office coordinator", "location": "Mississauga, ON"},
+    {"term": "records clerk", "location": "Mississauga, ON"},
+    {"term": "document management", "location": "Toronto, ON"},
+    {"term": "communications assistant", "location": "Toronto, ON"},
+    {"term": "legal assistant", "location": "Brampton, ON"},
+    {"term": "program assistant", "location": "Toronto, ON"},
+    {"term": "customer service representative", "location": "Mississauga, ON"},
+    {"term": "client services representative", "location": "Ontario, Canada", "remote": true},
+    {"term": "administrative assistant", "location": "Ontario, Canada", "remote": true}
+  ],
+  "smartrecruiters": ["WilliamOslerHealthSystem1", "HaltonHealthcare1"],
+  "html_boards": [
+    {"name": "City of Mississauga", "url": "https://jobs.mississauga.ca/search/?createNewAlert=false&q=", "location": "Mississauga, ON, Canada"},
+    {"name": "University of Toronto", "url": "https://jobs.utoronto.ca/go/Staff-Opportunities/2607517/", "location": "Toronto, ON, Canada"}
+  ]
+}

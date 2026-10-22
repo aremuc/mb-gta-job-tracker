@@ -1,0 +1,34 @@
+[
+  {
+    "source": "Initial four JobSpy queries: Indeed and LinkedIn",
+    "status": "ok",
+    "count": 80,
+    "warnings": {
+      "linkedin": [
+        "Remote-only parameter ignored; description review required"
+      ]
+    }
+  },
+  {
+    "source": "Expanded six-week backfill",
+    "status": "interrupted",
+    "count": 0,
+    "error": "Execution was interrupted after outbound network/proxy blocks. Initial 80-row snapshot retained; expanded coverage not claimed."
+  },
+  {
+    "source": "City of Mississauga (prior live test)",
+    "status": "HTML retrieval tested",
+    "count": 20
+  },
+  {
+    "source": "William Osler SmartRecruiters (prior live test)",
+    "status": "API retrieval tested",
+    "count": 74
+  },
+  {
+    "source": "University of Toronto Python fetch (prior live test)",
+    "status": "failed",
+    "count": 0,
+    "error": "HTTP 200 with Site Unavailable body; browser/search retrieval worked separately."
+  }
+]
