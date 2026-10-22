@@ -1,6 +1,6 @@
 # Source health
 
-[Home](../README.md) · Last attempt: 2026-10-22T16:05:31-04:00
+[Home](../README.md) · Last attempt: 2026-10-22T16:22:55-04:00
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
