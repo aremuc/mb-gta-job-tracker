@@ -1,6 +1,7 @@
 import html
 import json
 import re
+from datetime import date
 
 from .core import public_jobs
 
@@ -9,15 +10,24 @@ def cell(s):
     return html.escape(str(s or "Unknown")).replace("|", "&#124;").replace("\n", " ").replace("[", "&#91;").replace("]", "&#93;")
 
 
-def table(jobs):
-    lines = ["| Role / employer | Location | Pay | Posted | Status | Apply |", "|---|---|---|---|---|---|"]
+def age_text(posted, today):
+    try:
+        return f"{max(0, (today - date.fromisoformat(posted[:10])).days)}d" if posted else "—"
+    except (ValueError, TypeError, AttributeError):
+        return "—"
+
+
+def table(jobs, today=None):
+    today = today or date.today()
+    lines = ["| Role / employer | Location | Pay | Posted | Age | Status | Apply |", "|---|---|---|---|---|---|---|"]
     for j in jobs:
-        lines.append("| " + " | ".join([cell(j["title"]) + " — " + cell(j["company"]), cell(j["location"]), cell(j["salary"]), cell(j.get("posted_date")), cell(j["status"]), '<a href="' + html.escape(j["url"], quote=True) + '">View posting</a>']) + " |")
+        lines.append("| " + " | ".join([cell(j["title"]) + " — " + cell(j["company"]), cell(j["location"]), cell(j["salary"]), cell(j.get("posted_date")), age_text(j.get("posted_date"), today), cell(j["status"]), '<a href="' + html.escape(j["url"], quote=True) + '"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a>']) + " |")
     return "\n".join(lines)
 
 
 def render(root, jobs, health, now):
     jobs = public_jobs(jobs)
+    today = date.fromisoformat(now[:10])
     active = [j for j in jobs if j["status"] != "Closed"]
     active.sort(key=lambda j: (j.get("posted_date") or "", j.get("first_seen") or ""), reverse=True)
     verified = [j for j in active if j["status"] == "Posting verified"]
@@ -47,7 +57,7 @@ Unverified and stale leads remain visible with explicit labels. Source-reported 
 
 These have a checked posting page and a full-time/permanent signal. Requirements and commute still need review.
 
-{table([j for j in verified if j['tier'] == 'Priority'][:15])}
+{table([j for j in verified if j['tier'] == 'Priority'][:15], today)}
 
 ## How this works
 
@@ -65,7 +75,7 @@ Actual execution can be delayed by GitHub. Check Actions and the source-health r
     for label, subset in [("ALL_JOBS", active), ("FALLBACK", [j for j in active if j["tier"] == "Fallback"]), ("ARCHIVE", [j for j in jobs if j["status"] == "Closed"])]:
         intro = f"# {label.replace('_', ' ').title()}\n\n[Home](../README.md) · Updated {now}\n\n"
         if label == "ALL_JOBS":
-            intro += "All active jobs in one list, newest posting date first. Posting dates are source-reported and may be inaccurate; undated jobs appear last.\n\n" + table(subset) + "\n"
+            intro += "All active jobs in one list, newest posting date first. Posting dates are source-reported and may be inaccurate; undated jobs appear last.\n\n" + table(subset, today) + "\n"
         else:
             intro += table(subset) + "\n"
         (docs / f"{label}.md").write_text(intro, encoding="utf-8")
@@ -90,5 +100,5 @@ Actual execution can be delayed by GitHub. Check Actions and the source-health r
     # Escape script terminators; remote strings are inserted using DOM textContent only.
     payload = json.dumps(active, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
     template = (root / "tracker" / "viewer.html").read_text(encoding="utf-8")
-    (root / "index.html").write_text(template.replace("__JOBS__", payload).replace("__UPDATED__", html.escape(now)), encoding="utf-8")
+    (root / "index.html").write_text(template.replace("__JOBS__", payload).replace("__UPDATED__", html.escape(now)).replace("__TODAY__", today.isoformat()), encoding="utf-8")
 
