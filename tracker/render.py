@@ -19,7 +19,7 @@ def table(jobs):
 def render(root, jobs, health, now):
     jobs = public_jobs(jobs)
     active = [j for j in jobs if j["status"] != "Closed"]
-    active.sort(key=lambda j: (j["tier"] != "Priority", j["status"] != "Posting verified", -(int((j.get("posted_date") or "1900-01-01").replace("-", ""))), j["company"]))
+    active.sort(key=lambda j: (j.get("posted_date") or "", j.get("first_seen") or ""), reverse=True)
     verified = [j for j in active if j["status"] == "Posting verified"]
     content = f"""# GTA Entry-Level Job Tracker
 
@@ -36,7 +36,7 @@ Unverified and stale leads remain visible with explicit labels. Source-reported 
 
 ## Browse
 
-- [All leads and category pages](docs/ALL_JOBS.md)
+- **[All jobs, newest first](docs/ALL_JOBS.md)** — one chronological list across all categories
 - [Contract and other fallback roles](docs/FALLBACK.md)
 - [Closed postings](docs/ARCHIVE.md)
 - [Source health and coverage](docs/SOURCES.md)
@@ -65,9 +65,7 @@ Actual execution can be delayed by GitHub. Check Actions and the source-health r
     for label, subset in [("ALL_JOBS", active), ("FALLBACK", [j for j in active if j["tier"] == "Fallback"]), ("ARCHIVE", [j for j in jobs if j["status"] == "Closed"])]:
         intro = f"# {label.replace('_', ' ').title()}\n\n[Home](../README.md) · Updated {now}\n\n"
         if label == "ALL_JOBS":
-            intro += "## Categories\n\n" + "\n".join(f"- [{c}](#{re.sub(r'[^a-z0-9 -]', '', c.lower()).replace(' ', '-')})" for c in sorted({j['category'] for j in subset})) + "\n\n"
-            for c in sorted({j["category"] for j in subset}):
-                intro += f"## {c}\n\n" + table([j for j in subset if j["category"] == c]) + "\n\n"
+            intro += "All active jobs in one list, newest posting date first. Posting dates are source-reported and may be inaccurate; undated jobs appear last.\n\n" + table(subset) + "\n"
         else:
             intro += table(subset) + "\n"
         (docs / f"{label}.md").write_text(intro, encoding="utf-8")
