@@ -1,14 +1,23 @@
 # Source health
 
-[Home](../README.md) · Last attempt: 2026-10-22T16:04:21-04:00
+[Home](../README.md) · Last attempt: 2026-10-22T16:05:31-04:00
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
-| Initial four JobSpy queries: Indeed and LinkedIn | ok | 80 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;Remote-only parameter ignored; description review required&quot;&#93;}} |
-| Expanded six-week backfill | interrupted | 0 | Execution was interrupted after outbound network/proxy blocks. Initial 80-row snapshot retained; expanded coverage not claimed. |
-| City of Mississauga (prior live test) | HTML retrieval tested | 20 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| William Osler SmartRecruiters (prior live test) | API retrieval tested | 74 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| University of Toronto Python fetch (prior live test) | failed | 0 | HTTP 200 with Site Unavailable body; browser/search retrieval worked separately. |
+| JobSpy: administrative assistant / Brampton, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: office coordinator / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: records clerk / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: document management / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: communications assistant / Toronto, ON | ok | 24 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: legal assistant / Brampton, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: program assistant / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: customer service representative / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: client services representative / Ontario, Canada | ok | 29 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
+| JobSpy: administrative assistant / Ontario, Canada | ok | 21 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
+| SmartRecruiters: WilliamOslerHealthSystem1 | ok | 6 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| SmartRecruiters: HaltonHealthcare1 | ok | 5 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| City of Mississauga | ok | 0 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| University of Toronto | ok | 10 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 
 ## Coverage limits
 

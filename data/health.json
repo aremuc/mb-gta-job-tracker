@@ -1,34 +1,110 @@
 [
   {
-    "source": "Initial four JobSpy queries: Indeed and LinkedIn",
+    "source": "JobSpy: administrative assistant / Brampton, ON",
     "status": "ok",
-    "count": 80,
+    "count": 40,
+    "errors": {},
+    "warnings": {},
+    "seconds": 17.2
+  },
+  {
+    "source": "JobSpy: office coordinator / Mississauga, ON",
+    "status": "ok",
+    "count": 40,
+    "errors": {},
+    "warnings": {},
+    "seconds": 17.6
+  },
+  {
+    "source": "JobSpy: records clerk / Mississauga, ON",
+    "status": "ok",
+    "count": 40,
+    "errors": {},
+    "warnings": {},
+    "seconds": 18.6
+  },
+  {
+    "source": "JobSpy: document management / Toronto, ON",
+    "status": "ok",
+    "count": 40,
+    "errors": {},
+    "warnings": {},
+    "seconds": 17.3
+  },
+  {
+    "source": "JobSpy: communications assistant / Toronto, ON",
+    "status": "ok",
+    "count": 24,
+    "errors": {},
+    "warnings": {},
+    "seconds": 18.5
+  },
+  {
+    "source": "JobSpy: legal assistant / Brampton, ON",
+    "status": "ok",
+    "count": 40,
+    "errors": {},
+    "warnings": {},
+    "seconds": 16.4
+  },
+  {
+    "source": "JobSpy: program assistant / Toronto, ON",
+    "status": "ok",
+    "count": 40,
+    "errors": {},
+    "warnings": {},
+    "seconds": 20.6
+  },
+  {
+    "source": "JobSpy: customer service representative / Mississauga, ON",
+    "status": "ok",
+    "count": 40,
+    "errors": {},
+    "warnings": {},
+    "seconds": 21.7
+  },
+  {
+    "source": "JobSpy: client services representative / Ontario, Canada",
+    "status": "ok",
+    "count": 29,
+    "errors": {},
     "warnings": {
       "linkedin": [
-        "Remote-only parameter ignored; description review required"
+        "is_remote isn't supported, ignoring it"
       ]
-    }
+    },
+    "seconds": 20.3
   },
   {
-    "source": "Expanded six-week backfill",
-    "status": "interrupted",
-    "count": 0,
-    "error": "Execution was interrupted after outbound network/proxy blocks. Initial 80-row snapshot retained; expanded coverage not claimed."
+    "source": "JobSpy: administrative assistant / Ontario, Canada",
+    "status": "ok",
+    "count": 21,
+    "errors": {},
+    "warnings": {
+      "linkedin": [
+        "is_remote isn't supported, ignoring it"
+      ]
+    },
+    "seconds": 19.2
   },
   {
-    "source": "City of Mississauga (prior live test)",
-    "status": "HTML retrieval tested",
-    "count": 20
+    "source": "SmartRecruiters: WilliamOslerHealthSystem1",
+    "status": "ok",
+    "count": 6
   },
   {
-    "source": "William Osler SmartRecruiters (prior live test)",
-    "status": "API retrieval tested",
-    "count": 74
+    "source": "SmartRecruiters: HaltonHealthcare1",
+    "status": "ok",
+    "count": 5
   },
   {
-    "source": "University of Toronto Python fetch (prior live test)",
-    "status": "failed",
-    "count": 0,
-    "error": "HTTP 200 with Site Unavailable body; browser/search retrieval worked separately."
+    "source": "City of Mississauga",
+    "status": "ok",
+    "count": 0
+  },
+  {
+    "source": "University of Toronto",
+    "status": "ok",
+    "count": 10
   }
 ]

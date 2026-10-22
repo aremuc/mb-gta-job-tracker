@@ -5,7 +5,7 @@ Paid opportunities in administration, records, legal support, communications, cl
 
 Permanent/full-time roles come first. Contracts, casual and part-time roles are separated as fallbacks. No pharmacy roles or internships.
 
-**65 leads · 3 posting pages verified · updated 2026-10-22T16:04:21-04:00**
+**240 leads · 46 posting pages verified · updated 2026-10-22T16:05:31-04:00**
 
 This is a research shortlist, not a guarantee of eligibility or an employer's hiring activity.
 “Posting verified” means a matching posting page was successfully checked; read its requirements before applying.
@@ -26,8 +26,21 @@ These have a checked posting page and a full-time/permanent signal. Requirements
 
 | Role / employer | Location | Pay | Posted | Status | Apply |
 |---|---|---|---|---|---|
-| Records File Clerk — Ministry of the Solicitor General | Milton, ON, Canada | CAD 24.14–27.90 / hourly | 2026-10-09 | Posting verified | <a href="https://www.gojobs.gov.on.ca/Preview.aspx?JobID=249646&amp;Language=English">View posting</a> |
-| Office Administrative Assistant — Stelumar Advanced Manufacturing Inc. | Mississauga, ON, Canada | CAD 50,000.00–73,500.00 / yearly | 2026-09-26 | Posting verified | <a href="https://jobs.jobvite.com/careers/stelumar-advanced-manufacturing/job/oZyNAfwE">View posting</a> |
+| Communications Specialist — Roylo Partners | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-22 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481370975">View posting</a> |
+| Document Coordinator — Lifemark Health Group | Mississauga, Ontario, Canada | CAD 38,000.00–40,000.00 / yearly | 2026-10-21 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4479465020">View posting</a> |
+| Senior Administrative Assistant — Quantum Management Services Ltd. | Toronto, Ontario, Canada | CAD 65,000.00–70,000.00 / yearly | 2026-10-21 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482115861">View posting</a> |
+| Customer Service Specialist — Strategy Recruitment Group | Scarborough, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482140772">View posting</a> |
+| Administrative Assistant II — University Health Network | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482132306">View posting</a> |
+| Administrative Assistant III — University Health Network | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482165897">View posting</a> |
+| Executive Assistant and Office Administrator — CNA Insurance | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-20 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4478916726">View posting</a> |
+| Administrative Assistant — Morguard | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-20 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481795467">View posting</a> |
+| Administration &amp; Systems - Clerk File Maintenance — Sobeys | Oakville, Ontario, Canada | Not disclosed / not extracted | 2026-10-20 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4471545507">View posting</a> |
+| Customer Service Representative — AWT Labels &amp; Packaging | Toronto, Ontario, Canada | CAD 55,000.00–65,000.00 / yearly | 2026-10-19 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481229258">View posting</a> |
+| Office administrative assistant — Allingham Machining Inc. | Brampton, Ontario, Canada | Not disclosed / not extracted | 2026-10-19 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481208440">View posting</a> |
+| Facilities and Administrative Coordinator — OPTRUST | Toronto, ON, Canada | CAD 71,899.00–80,289.00 / yearly | 2026-10-19 | Posting verified | <a href="https://optrust.wd3.myworkdayjobs.com/en-US/OPTrust/job/Toronto-ON/Facilities-and-Administrative-Coordinator_R1308">View posting</a> |
+| Nursing Clerk - Permanent Full Time - Day — Sienna Senior Living | Woodbridge, Ontario, Canada | Not disclosed / not extracted | 2026-10-19 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4480262001">View posting</a> |
+| Executive Assistant — Canadian Football League | Toronto, ON, Canada | CAD 65,000.00–75,000.00 / yearly | 2026-10-17 | Posting verified | <a href="https://www.teamworkonline.com/football-jobs/cfljobs/cfl/executive-assistant-2195185">View posting</a> |
+| Partner Administrative Assistant, Audit (Vaughan) — KPMG Canada | Vaughan, Ontario, Canada | Not disclosed / not extracted | 2026-10-17 | Posting verified | <a href="https://www.linkedin.com/jobs/view/4472252878">View posting</a> |
 
 ## How this works
 
