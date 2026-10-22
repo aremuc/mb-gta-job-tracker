@@ -15,7 +15,7 @@ permissions:
   contents: write
 concurrency:
   group: job-tracker-refresh
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -29,7 +29,11 @@ jobs:
       - run: python -m pip install -r requirements-lock.txt
       - name: Test matching and preservation rules
         run: python -m unittest discover -s tests -v
+      - name: Render existing jobs after code changes
+        if: github.event_name == 'push'
+        run: python -m tracker.update --render-only
       - name: Collect and verify jobs
+        if: github.event_name != 'push'
         id: refresh
         continue-on-error: true
         env:
@@ -47,10 +51,11 @@ jobs:
           git add README.md index.html docs/ data/
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh job listings and source health'
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
       - name: Report failed collection
-        if: steps.refresh.outcome == 'failure'
+        if: github.event_name != 'push' && steps.refresh.outcome == 'failure'
         run: |
           echo 'Collection failed. Previous jobs were preserved; see docs/SOURCES.md and logs.'
           exit 1
