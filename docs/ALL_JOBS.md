@@ -1,6 +1,6 @@
 # All Jobs
 
-[Home](../README.md) · Updated 2026-10-23T07:08:59-04:00
+[Home](../README.md) · Updated 2026-10-23T07:15:22-04:00
 
 All active jobs in one list, newest posting date first. Posting dates are source-reported and may be inaccurate; undated jobs appear last.
 

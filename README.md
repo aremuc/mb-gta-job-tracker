@@ -5,7 +5,7 @@ Paid opportunities in administration, records, legal support, communications, cl
 
 The main list is newest first across all categories. Full-time roles are preferred; contracts, casual and part-time roles are labelled as fallbacks. No pharmacy roles or internships.
 
-**265 leads · 80 posting pages verified · views generated 2026-10-23T07:08:59-04:00**
+**265 leads · 80 posting pages verified · views generated 2026-10-23T07:15:22-04:00**
 
 Latest job-discovery evidence: **2026-10-23T07:08:59-04:00**. Regenerating the page does not fetch new jobs.
 
