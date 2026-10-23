@@ -50,6 +50,8 @@ def date_string(value):
 
 def category(title, config):
     t = title.lower()
+    if re.search(r"pharma|pharmacy|pharmacist", t):
+        return None
     # A support role reporting to a director/chief is not that senior role.
     primary_title = re.split(r"\s+to\s+(?:the\s+)?", t, maxsplit=1)[0]
     if any(re.search(p, primary_title) for p in config["exclude_title_patterns"]):

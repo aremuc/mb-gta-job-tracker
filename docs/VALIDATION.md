@@ -5,7 +5,8 @@
 - Started from commit `22964e7b697d09bf8fcf3f09ae5d3f7de74b335c`, preserving the combined newest-first list, posting ages, Apply buttons, and fast render-only code updates.
 - 35 local Python tests pass, including public-data filtering, stored-title exclusions, document versus medical imaging, remote/bilingual uncertainty, deadline expiry, URL-change verification invalidation, missing-page recovery, sorting and source timestamps.
 - Reviewed GitHub run `39847436362`: collection succeeded; publishing failed because main had changed. The subsequent rebase fix and successful render-only run `39848226337` were confirmed.
-- The stored dataset already contained 242 records after live GitHub collection. Counts and current source status are shown in the generated pages.
+- Full live [GitHub run 39944006219](https://github.com/aremuc/mb-gta-job-tracker/actions/runs/39944006219) passed tests, collection, verification and publishing on October 23. It committed 284 records: 265 active (80 posting pages verified), 17 excluded and 2 closed. All 14 configured source entries reported successful retrieval; Mississauga returned zero matching roles. LinkedIn remote-filter warnings remain.
+- After that run, a final pharmacy-title exclusion edge case was added and covered by the same 35-test suite. The following ordinary push exercises tests and rendering without repeating collection.
 - Public content was checked for identifying details and personal tracking data before publication. No résumé is included.
 
 ## Scope of evidence

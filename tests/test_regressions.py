@@ -15,6 +15,7 @@ class ScopeTests(unittest.TestCase):
     def test_irrelevant_roles_excluded(self):
         for title in ['Analyst, Enterprise Data and Records co-op', 'Chief Administrative Officer',
                       'Senior Administrative Assistant', 'Modality Supervisor - MRI Diagnostic Imaging',
+                      'Administrative Assistant to Pharmacy Director',
                       'Registered Technologist - Mammography Screening, Diagnostic Imaging',
                       'Manager, AMS/SAP Platform Administration and Support']:
             with self.subTest(title=title):
