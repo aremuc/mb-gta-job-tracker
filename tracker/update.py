@@ -4,7 +4,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from .core import atomic_json, merge, public_jobs
+from .core import atomic_json, merge, public_jobs, apply_scope
 from .render import render
 from .sources import discover, verify
 
@@ -22,6 +22,7 @@ def main():
     now = datetime.now(ZoneInfo(config["timezone"])).isoformat(timespec="seconds")
     path = ROOT / "data/jobs.json"
     existing = public_jobs(json.loads(path.read_text())) if path.exists() else []
+    existing = apply_scope(existing, config, now)
     health_path = ROOT / "data/health.json"
     if args.render_only:
         jobs = existing
@@ -35,6 +36,8 @@ def main():
             health = [{"source": "Initial saved JobSpy test", "status": "ok", "count": len(rows)}]
         else:
             rows, health = discover(config, config["lookback_days"] if args.backfill else config["daily_lookback_days"])
+        for source in health:
+            source["checked_at"] = now
         # No usable data: preserve jobs entirely; write failure report for Actions.
         if not rows:
             atomic_json(path, existing)
@@ -42,7 +45,7 @@ def main():
             render(ROOT, existing, health, now)
             print("No rows received. Existing job data preserved; inspect source health.")
             return 1
-        jobs = merge(existing, rows, config, now)
+        jobs = apply_scope(merge(existing, rows, config, now), config, now)
         if not args.skip_verification:
             print("Posting checks:", verify(jobs, config, now), flush=True)
     jobs = public_jobs(jobs)

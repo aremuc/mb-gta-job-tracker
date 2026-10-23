@@ -28,17 +28,20 @@ def table(jobs, today=None):
 def render(root, jobs, health, now):
     jobs = public_jobs(jobs)
     today = date.fromisoformat(now[:10])
-    active = [j for j in jobs if j["status"] != "Closed"]
+    active = [j for j in jobs if j["status"] not in ("Closed", "Excluded")]
     active.sort(key=lambda j: (j.get("posted_date") or "", j.get("first_seen") or ""), reverse=True)
     verified = [j for j in active if j["status"] == "Posting verified"]
+    last_observed = max((j.get("last_seen", "") for j in jobs), default="Unknown")
     content = f"""# GTA Entry-Level Job Tracker
 
 Paid opportunities in administration, records, legal support, communications, client services and community programs.
 **Brampton · Mississauga · Toronto · GTA commute review · Ontario-eligible remote**
 
-Permanent/full-time roles come first. Contracts, casual and part-time roles are separated as fallbacks. No pharmacy roles or internships.
+The main list is newest first across all categories. Full-time roles are preferred; contracts, casual and part-time roles are labelled as fallbacks. No pharmacy roles or internships.
 
-**{len(active)} leads · {len(verified)} posting pages verified · updated {now}**
+**{len(active)} leads · {len(verified)} posting pages verified · views generated {now}**
+
+Latest job-discovery evidence: **{last_observed}**. Regenerating the page does not fetch new jobs.
 
 This is a research shortlist, not a guarantee of eligibility or an employer's hiring activity.
 “Posting verified” means a matching posting page was successfully checked; read its requirements before applying.
@@ -49,13 +52,14 @@ Unverified and stale leads remain visible with explicit labels. Source-reported 
 - **[All jobs, newest first](docs/ALL_JOBS.md)** — one chronological list across all categories
 - [Contract and other fallback roles](docs/FALLBACK.md)
 - [Closed postings](docs/ARCHIVE.md)
+- [Excluded roles](docs/EXCLUDED.md) — retained for auditing, removed from active listings
 - [Source health and coverage](docs/SOURCES.md)
 - [Setup and maintenance](docs/MAINTENANCE.md)
 - **Searchable viewer:** download `index.html` and open it in your browser. Search/filter locally; no hosting or account required. GitHub displays its source rather than running it.
 
 ## Verified priority leads
 
-These have a checked posting page and a full-time/permanent signal. Requirements and commute still need review.
+These have a checked posting page and a full-time/permanent signal. “Priority” describes employment preference, not confirmed qualifications. Requirements and commute still need review.
 
 {table([j for j in verified if j['tier'] == 'Priority'][:15], today)}
 
@@ -72,14 +76,15 @@ Actual execution can be delayed by GitHub. Check Actions and the source-health r
     (root / "README.md").write_text(content, encoding="utf-8")
     docs = root / "docs"
     docs.mkdir(exist_ok=True)
-    for label, subset in [("ALL_JOBS", active), ("FALLBACK", [j for j in active if j["tier"] == "Fallback"]), ("ARCHIVE", [j for j in jobs if j["status"] == "Closed"])]:
+    for label, subset in [("ALL_JOBS", active), ("FALLBACK", [j for j in active if j["tier"] == "Fallback"]), ("ARCHIVE", [j for j in jobs if j["status"] == "Closed"]), ("EXCLUDED", [j for j in jobs if j["status"] == "Excluded"])]:
         intro = f"# {label.replace('_', ' ').title()}\n\n[Home](../README.md) · Updated {now}\n\n"
         if label == "ALL_JOBS":
             intro += "All active jobs in one list, newest posting date first. Posting dates are source-reported and may be inaccurate; undated jobs appear last.\n\n" + table(subset, today) + "\n"
         else:
-            intro += table(subset) + "\n"
+            intro += table(subset, today) + "\n"
         (docs / f"{label}.md").write_text(intro, encoding="utf-8")
-    source = f"# Source health\n\n[Home](../README.md) · Last attempt: {now}\n\n"
+    checked = max((h.get("checked_at", "") for h in health), default="") or "Not recorded in this older report"
+    source = f"# Source health\n\n[Home](../README.md) · Last collection attempt: {checked}\n\nViews generated: {now}. Rendering alone does not refresh source checks.\n\n"
     source += "| Source | Result | Rows before filtering | Details |\n|---|---|---:|---|\n"
     for h in health:
         source += f"| {cell(h['source'])} | {cell(h['status'])} | {h.get('count', 0)} | {cell(h.get('error') or json.dumps({'errors': h.get('errors', {}), 'warnings': h.get('warnings', {})}))} |\n"

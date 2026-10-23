@@ -50,7 +50,9 @@ def date_string(value):
 
 def category(title, config):
     t = title.lower()
-    if any(re.search(p, t) for p in config["exclude_title_patterns"]):
+    # A support role reporting to a director/chief is not that senior role.
+    primary_title = re.split(r"\s+to\s+(?:the\s+)?", t, maxsplit=1)[0]
+    if any(re.search(p, primary_title) for p in config["exclude_title_patterns"]):
         return None
     if "legal assistant" in t or "legal receptionist" in t or "law clerk" in t:
         return "Legal support"
@@ -66,12 +68,14 @@ def assess(raw, config):
     if not cat:
         return None
     text = clean(raw.get("description"))
-    lower = text.lower()
+    lower = (title + " " + text).lower()
     loc = clean(raw.get("location"))
     known_cities = config["preferred_cities"] + config["commute_review_cities"]
-    local = any(city in loc.lower() for city in known_cities)
+    local = any(re.search(r"\b" + re.escape(city) + r"\b", loc.lower()) for city in known_cities)
     canadian = local or bool(re.search(r"\b(canada|ontario)\b", loc.lower()))
     remote_claim = raw.get("is_remote") is True or "remote" in title.lower()
+    if re.search(r"\b(united states|usa|u\.s\.)\b", loc, re.I):
+        return None
     if not canadian or (not local and not remote_claim):
         return None
     if re.search(r"\b(internal applicants only|current employees only)\b", title + " " + lower, re.I):
@@ -102,7 +106,7 @@ def assess(raw, config):
     else:
         tier = "Review"
         flags.append("Employment type not established")
-    if experience_warning and tier == "Priority":
+    if (experience_warning or remote_claim or re.search(r"\bbilingual\b", lower)) and tier == "Priority":
         tier = "Review"
     if "law clerk" in title.lower():
         flags.append("Check law-clerk credential requirements")
@@ -144,6 +148,7 @@ def merge(existing, incoming, config, now):
             old["first_seen"] = min(old.get("first_seen", now), duplicate.get("first_seen", now))
             old["sources"] = sorted(set(old.get("sources", []) + duplicate.get("sources", [])))
         urls = sorted(set(urls + old.get("urls", [])))
+        previous_url = old.get("url")
         job = {**old, **assessment, "id": jid, "title": clean(raw.get("title")),
                "company": clean(raw.get("company")), "location": clean(raw.get("location")),
                "url": canonical(raw.get("job_url_direct")) or old.get("url") or canonical(raw["job_url"]),
@@ -152,6 +157,11 @@ def merge(existing, incoming, config, now):
                "first_seen": old.get("first_seen", now), "last_seen": now,
                "sources": sorted(set(old.get("sources", []) + [clean(raw.get("site")) or "manual"])),
                "status": old.get("status", "Unverified")}
+        if previous_url and job["url"] != previous_url:
+            job["status"] = "Unverified"
+            for field in ("last_checked", "last_verified", "deadline", "missing_since"):
+                job.pop(field, None)
+            job["verification_note"] = "Application URL changed; new destination needs checking"
         records[jid] = job
         for u in urls:
             aliases[identity(u)] = jid
@@ -172,7 +182,7 @@ PUBLIC_JOB_FIELDS = frozenset({
     "flags", "id", "last_checked", "last_seen", "last_verified", "location",
     "match_reason", "posted_date", "posted_date_basis", "salary", "sources",
     "status", "tier", "title", "url", "urls", "verification_note",
-    "missing_since", "employer_posted_date",
+    "missing_since", "employer_posted_date", "exclusion_reason", "status_before_exclusion",
 })
 
 
@@ -180,3 +190,24 @@ def public_jobs(jobs):
     """Export only listing metadata; never carry private tracking fields forward."""
     return [{key: value for key, value in job.items() if key in PUBLIC_JOB_FIELDS}
             for job in jobs]
+
+
+def apply_scope(jobs, config, now):
+    """Reapply title exclusions to stored listings without deleting their history."""
+    for job in jobs:
+        if category(job["title"], config) is None:
+            if job["status"] != "Excluded":
+                job["status_before_exclusion"] = job["status"]
+            job["status"] = "Excluded"
+            job["exclusion_reason"] = "Outside configured job families or excluded senior, student, clinical or pharmacy role"
+            continue
+        if job["status"] == "Excluded":
+            job["status"] = job.pop("status_before_exclusion", "Unverified")
+            job.pop("exclusion_reason", None)
+        deadline = date_string(job.get("deadline"))
+        if deadline and deadline < now[:10]:
+            job["status"] = "Closed"
+            job["verification_note"] = "Previously observed employer deadline has passed"
+        elif job["status"] != "Closed" and datetime.fromisoformat(job["last_seen"]) < datetime.fromisoformat(now) - timedelta(days=config["stale_after_days"]):
+            job["status"] = "Stale — recheck"
+    return jobs

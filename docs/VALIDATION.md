@@ -1,31 +1,17 @@
-# Validation record — October 22, 2026
+# Validation record
 
-## Completed
+## October 23, 2026 maintenance
 
-- Installed and imported `python-jobspy==1.4.0` under Python 3.12.
-- Four live searches against Indeed and LinkedIn returned 80 results (10 per board per search), with descriptions and posting dates. 35 included direct employer links. 36 supplied salary fields. These counts are discovery results, not verified vacancies.
-- The oldest source-reported posting date was September 10, 2026, supporting the six-week initial import.
-- Imported that snapshot into persistent JSON, filtered it to 65 leads, categorized and rendered the results.
-- Final initial breakdown: 41 priority-employment leads, 10 needing additional review, 14 fallback-employment leads. These categories do not certify eligibility.
-- Directly checked three posting pages: Stelumar Office Administrative Assistant, OPS Records File Clerk (249646), City of Toronto Revenue Clerk 4 (63641). All other initial records remain explicitly unverified.
-- Automated Python tests passed, covering duplicate URLs and bridges, distinct requisitions, stale history, total-source-outage preservation, public-field privacy filtering, role/location exclusions, misleading employment labels, unavailable pages, expired deadlines, and HTML/script escaping.
-- Python compilation passed. Workflow YAML parsed; schedule, manual dispatch and write permission checked.
-- Searchable HTML viewer logic passed a Node DOM harness: initial list, verified-only filter, fallback filter, text search and no-results state.
-- Individual source retrieval tests succeeded for City of Mississauga HTML and William Osler's SmartRecruiters endpoint. These were source retrieval tests, not complete reviews of every listing.
+- Started from commit `22964e7b697d09bf8fcf3f09ae5d3f7de74b335c`, preserving the combined newest-first list, posting ages, Apply buttons, and fast render-only code updates.
+- 35 local Python tests pass, including public-data filtering, stored-title exclusions, document versus medical imaging, remote/bilingual uncertainty, deadline expiry, URL-change verification invalidation, missing-page recovery, sorting and source timestamps.
+- Reviewed GitHub run `39847436362`: collection succeeded; publishing failed because main had changed. The subsequent rebase fix and successful render-only run `39848226337` were confirmed.
+- The stored dataset already contained 242 records after live GitHub collection. Counts and current source status are shown in the generated pages.
+- Public content was checked for identifying details and personal tracking data before publication. No résumé is included.
 
-## Not completed / limits
+## Scope of evidence
 
-- Expanded 10-query backfill was interrupted after outbound network/proxy blocks. No claim of expanded coverage is made; the successful 80-result snapshot is the source of the initial 65-lead list.
-- Full GitHub-hosted workflow execution has **not** been tested. See Actions for upload and execution status.
-- Browser rendering/screenshot test was unavailable because Chromium download failed. The viewer was checked for functionality with a DOM harness, not visually in a real browser.
-- LinkedIn warned that the remote parameter was unsupported and ignored. Remote claims must be independently reviewed for Ontario eligibility.
-- Automated matching is conservative keyword screening with uncertainty flags, not an AI assessment of every requirement.
-- JobSpy direct/employer dates and salaries can be inaccurate or missing; displayed provenance and verification labels must be retained.
+Local tests use controlled fixtures. Live source availability and automated posting verification are separately reported in Actions, source health, and each listing's check dates. A successful run is not complete market coverage or a personal qualification assessment.
 
-## Next verification after upload
+No real-browser visual test has been completed. The initial viewer passed a DOM harness; later presentation improvements are preserved. LinkedIn may ignore remote filtering. Source dates and salaries may be wrong; check the application page.
 
-1. Run the GitHub Actions workflow manually with backfill enabled.
-2. Inspect the logs, committed `data/health.json` and `docs/SOURCES.md`.
-3. Confirm generated listings are committed with listing metadata only.
-4. Review a sample of new priority, review, fallback and remote leads.
-5. Confirm the next scheduled run executes. Do not equate a configured cron with proven daily execution.
+The first dataset began with a six-week, 80-result discovery sample. Later GitHub runs expanded it. Daily searches overlap seven days; manual backfill searches six weeks. The first scheduled run after these changes still needs to occur before daily scheduling can be called proven.

@@ -4,7 +4,7 @@
 
 The public repository is `aremuc/mb-gta-job-tracker`. Anyone can browse the Markdown listings without an account. Download `index.html` to use the searchable viewer locally.
 
-The workflow runs daily at 13:37 UTC and on changes to code/configuration on `main`. To run a six-week search manually, open **Actions → Refresh job tracker → Run workflow** and select backfill. Inspect the run and `docs/SOURCES.md`; a green run with degraded sources is not full coverage.
+The workflow collects jobs daily at 13:37 UTC. Ordinary code pushes test and regenerate existing listings quickly; they do not search for new jobs. Add `[refresh-jobs]` to a code-change commit message to explicitly request collection on that push. To run a six-week search manually, open **Actions → Refresh job tracker → Run workflow** and select backfill. Inspect the run and `docs/SOURCES.md`; a green run with degraded sources is not full coverage.
 
 ## Public data and privacy
 
@@ -39,7 +39,8 @@ Compensation is preferred above minimum wage, but no hard threshold is guessed. 
 - `Posting verified`: matching employer/job-board posting structure or matching title plus substantive description and Apply control.
 - `Unverified`: new lead, blocked page, unsupported rendering, or incomplete evidence.
 - `Stale — recheck`: not rediscovered for 14 days. It is not automatically declared closed.
-- `Closed`: explicit closure, a recognized expired deadline, or 404/410 on separate days.
+- `Closed`: explicit closure, a recognized expired deadline, or repeated 404/410 on separate days without an intervening successful page response.
+- `Excluded`: outside the configured title rules. Preserved in `docs/EXCLUDED.md`, omitted from active views and network verification. Rules are reapplied to existing data too.
 - Verification is capped at 60 pages per run; oldest checks go first and repeat after seven days.
 - Check dates are visible. A verified page does not guarantee a current vacancy, complete eligibility or employer responsiveness.
 - Missing from a paginated/search-limited feed is never proof of closure.
@@ -59,6 +60,10 @@ Compensation is preferred above minimum wage, but no hard threshold is guessed. 
 **Page layout changed:** that source is marked failed rather than returning an empty successful result. Update its adapter and run tests.
 
 **Dependency updates:** top-level dependencies are in `requirements.txt`; `requirements-lock.txt` pins the versions used in the tested environment. Update deliberately in a virtual environment and repeat tests plus a small live query.
+
+## Reading timestamps
+
+The view-generation timestamp is separate from discovery and posting-check timestamps. A render-only run does not update source-check timestamps. “Priority” is an employment preference, not a promise of qualification. Remote and bilingual postings are flagged for individual review.
 
 ## Sources and attribution
 

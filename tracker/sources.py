@@ -177,7 +177,7 @@ def classify_page(status_code, content, title, now):
 def verify(jobs, config, now):
     from datetime import datetime, timedelta
     s = session()
-    due = [j for j in jobs if not j.get("last_checked") or datetime.fromisoformat(j["last_checked"]) <= datetime.fromisoformat(now) - timedelta(days=config["verification_max_age_days"])]
+    due = [j for j in jobs if j.get("status") != "Excluded" and (not j.get("last_checked") or datetime.fromisoformat(j["last_checked"]) <= datetime.fromisoformat(now) - timedelta(days=config["verification_max_age_days"]))]
     due.sort(key=lambda j: (j.get("last_checked", ""), j["tier"] != "Priority", j["first_seen"]))
     for j in due[:config["verification_budget"]]:
         try:
@@ -188,9 +188,12 @@ def verify(jobs, config, now):
                 previous = j.get("missing_since")
                 j["missing_since"] = previous or now[:10]
                 status = "Closed" if previous and previous < now[:10] else "Unverified"
-            elif status == "Posting verified":
-                j.pop("missing_since", None)
-                j["last_verified"] = now
+            else:
+                # A later real page response breaks a sequence of missing pages.
+                if r.status_code == 200 and "blocked" not in note.lower():
+                    j.pop("missing_since", None)
+                if status == "Posting verified":
+                    j["last_verified"] = now
             j.update(fields)
             # An inaccessible page doesn't undo confirmed closure.
             if j.get("status") != "Closed" or status == "Posting verified":
@@ -201,4 +204,5 @@ def verify(jobs, config, now):
                 j["status"] = "Unverified"
             j["verification_note"] = "Request failed: " + str(exc)[:140]
         j["last_checked"] = now
+        print(f"Checked {j['id']}: {j['status']}", flush=True)
     return len(due[:config["verification_budget"]])

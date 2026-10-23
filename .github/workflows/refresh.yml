@@ -15,13 +15,15 @@ permissions:
   contents: write
 concurrency:
   group: job-tracker-refresh
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -30,10 +32,10 @@ jobs:
       - name: Test matching and preservation rules
         run: python -m unittest discover -s tests -v
       - name: Render existing jobs after code changes
-        if: github.event_name == 'push'
+        if: github.event_name == 'push' && !contains(github.event.head_commit.message, '[refresh-jobs]')
         run: python -m tracker.update --render-only
       - name: Collect and verify jobs
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' || contains(github.event.head_commit.message, '[refresh-jobs]')
         id: refresh
         continue-on-error: true
         env:
@@ -55,7 +57,7 @@ jobs:
             git push origin HEAD:main
           fi
       - name: Report failed collection
-        if: github.event_name != 'push' && steps.refresh.outcome == 'failure'
+        if: steps.refresh.outcome == 'failure'
         run: |
           echo 'Collection failed. Previous jobs were preserved; see docs/SOURCES.md and logs.'
           exit 1
