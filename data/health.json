@@ -5,7 +5,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 17.2
+    "seconds": 20.2,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: office coordinator / Mississauga, ON",
@@ -13,7 +14,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 17.6
+    "seconds": 18.7,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: records clerk / Mississauga, ON",
@@ -21,7 +23,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 18.6
+    "seconds": 17.3,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: document management / Toronto, ON",
@@ -29,15 +32,17 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 17.3
+    "seconds": 19.2,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: communications assistant / Toronto, ON",
     "status": "ok",
-    "count": 24,
+    "count": 26,
     "errors": {},
     "warnings": {},
-    "seconds": 18.5
+    "seconds": 20.4,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: legal assistant / Brampton, ON",
@@ -45,7 +50,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 16.4
+    "seconds": 18.5,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: program assistant / Toronto, ON",
@@ -53,7 +59,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 20.6
+    "seconds": 18.1,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: customer service representative / Mississauga, ON",
@@ -61,7 +68,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 21.7
+    "seconds": 19.2,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: client services representative / Ontario, Canada",
@@ -73,7 +81,8 @@
         "is_remote isn't supported, ignoring it"
       ]
     },
-    "seconds": 20.3
+    "seconds": 20.6,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "JobSpy: administrative assistant / Ontario, Canada",
@@ -85,26 +94,31 @@
         "is_remote isn't supported, ignoring it"
       ]
     },
-    "seconds": 19.2
+    "seconds": 20.7,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "SmartRecruiters: WilliamOslerHealthSystem1",
     "status": "ok",
-    "count": 6
+    "count": 1,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "SmartRecruiters: HaltonHealthcare1",
     "status": "ok",
-    "count": 5
+    "count": 4,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "City of Mississauga",
     "status": "ok",
-    "count": 0
+    "count": 0,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   },
   {
     "source": "University of Toronto",
     "status": "ok",
-    "count": 10
+    "count": 7,
+    "checked_at": "2026-10-23T07:08:59-04:00"
   }
 ]

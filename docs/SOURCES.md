@@ -1,6 +1,8 @@
 # Source health
 
-[Home](../README.md) · Last attempt: 2026-10-22T16:22:55-04:00
+[Home](../README.md) · Last collection attempt: 2026-10-23T07:08:59-04:00
+
+Views generated: 2026-10-23T07:08:59-04:00. Rendering alone does not refresh source checks.
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
@@ -8,16 +10,16 @@
 | JobSpy: office coordinator / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: records clerk / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: document management / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: communications assistant / Toronto, ON | ok | 24 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: communications assistant / Toronto, ON | ok | 26 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: legal assistant / Brampton, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: program assistant / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: customer service representative / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: client services representative / Ontario, Canada | ok | 29 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
 | JobSpy: administrative assistant / Ontario, Canada | ok | 21 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
-| SmartRecruiters: WilliamOslerHealthSystem1 | ok | 6 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| SmartRecruiters: HaltonHealthcare1 | ok | 5 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| SmartRecruiters: WilliamOslerHealthSystem1 | ok | 1 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| SmartRecruiters: HaltonHealthcare1 | ok | 4 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | City of Mississauga | ok | 0 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| University of Toronto | ok | 10 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| University of Toronto | ok | 7 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 
 ## Coverage limits
 

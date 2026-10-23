@@ -3,9 +3,11 @@
 Paid opportunities in administration, records, legal support, communications, client services and community programs.
 **Brampton · Mississauga · Toronto · GTA commute review · Ontario-eligible remote**
 
-Permanent/full-time roles come first. Contracts, casual and part-time roles are separated as fallbacks. No pharmacy roles or internships.
+The main list is newest first across all categories. Full-time roles are preferred; contracts, casual and part-time roles are labelled as fallbacks. No pharmacy roles or internships.
 
-**240 leads · 46 posting pages verified · updated 2026-10-22T16:22:55-04:00**
+**265 leads · 80 posting pages verified · views generated 2026-10-23T07:08:59-04:00**
+
+Latest job-discovery evidence: **2026-10-23T07:08:59-04:00**. Regenerating the page does not fetch new jobs.
 
 This is a research shortlist, not a guarantee of eligibility or an employer's hiring activity.
 “Posting verified” means a matching posting page was successfully checked; read its requirements before applying.
@@ -16,31 +18,32 @@ Unverified and stale leads remain visible with explicit labels. Source-reported 
 - **[All jobs, newest first](docs/ALL_JOBS.md)** — one chronological list across all categories
 - [Contract and other fallback roles](docs/FALLBACK.md)
 - [Closed postings](docs/ARCHIVE.md)
+- [Excluded roles](docs/EXCLUDED.md) — retained for auditing, removed from active listings
 - [Source health and coverage](docs/SOURCES.md)
 - [Setup and maintenance](docs/MAINTENANCE.md)
 - **Searchable viewer:** download `index.html` and open it in your browser. Search/filter locally; no hosting or account required. GitHub displays its source rather than running it.
 
 ## Verified priority leads
 
-These have a checked posting page and a full-time/permanent signal. Requirements and commute still need review.
+These have a checked posting page and a full-time/permanent signal. “Priority” describes employment preference, not confirmed qualifications. Requirements and commute still need review.
 
 | Role / employer | Location | Pay | Posted | Age | Status | Apply |
 |---|---|---|---|---|---|---|
-| Communications Specialist — Roylo Partners | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-22 | 0d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481370975"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Administrative Assistant II — University Health Network | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 1d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482132306"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Administrative Assistant III — University Health Network | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 1d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482165897"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Senior Administrative Assistant — Quantum Management Services Ltd. | Toronto, Ontario, Canada | CAD 65,000.00–70,000.00 / yearly | 2026-10-21 | 1d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482115861"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Document Coordinator — Lifemark Health Group | Mississauga, Ontario, Canada | CAD 38,000.00–40,000.00 / yearly | 2026-10-21 | 1d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4479465020"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Customer Service Specialist — Strategy Recruitment Group | Scarborough, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 1d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482140772"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Executive Assistant and Office Administrator — CNA Insurance | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-20 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4478916726"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Administration &amp; Systems - Clerk File Maintenance — Sobeys | Oakville, Ontario, Canada | Not disclosed / not extracted | 2026-10-20 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4471545507"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Administrative Assistant — Morguard | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-20 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481795467"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Facilities and Administrative Coordinator — OPTRUST | Toronto, ON, Canada | CAD 71,899.00–80,289.00 / yearly | 2026-10-19 | 3d | Posting verified | <a href="https://optrust.wd3.myworkdayjobs.com/en-US/OPTrust/job/Toronto-ON/Facilities-and-Administrative-Coordinator_R1308"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Office administrative assistant — Allingham Machining Inc. | Brampton, Ontario, Canada | Not disclosed / not extracted | 2026-10-19 | 3d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481208440"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Nursing Clerk - Permanent Full Time - Day — Sienna Senior Living | Woodbridge, Ontario, Canada | Not disclosed / not extracted | 2026-10-19 | 3d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4480262001"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Customer Service Representative — AWT Labels &amp; Packaging | Toronto, Ontario, Canada | CAD 55,000.00–65,000.00 / yearly | 2026-10-19 | 3d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481229258"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Executive Assistant — Canadian Football League | Toronto, ON, Canada | CAD 65,000.00–75,000.00 / yearly | 2026-10-17 | 5d | Posting verified | <a href="https://www.teamworkonline.com/football-jobs/cfljobs/cfl/executive-assistant-2195185"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
-| Partner Administrative Assistant, Audit (Vaughan) — KPMG Canada | Vaughan, Ontario, Canada | Not disclosed / not extracted | 2026-10-17 | 5d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4472252878"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Intake Coordinator — Medlyex | Toronto, ON, Canada | CAD 22.00–25.00 / hourly | 2026-10-22 | 1d | Posting verified | <a href="https://www.paycomonline.net/v4/ats/web.php/portal/424FDB880AB6290326FF60F926ADC27B/jobs/283581"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Administrative Agent (E&amp;C) — YMCA of Greater Toronto | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-22 | 1d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482162858"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Customer Experience Specialist — Project XIII Inc | Burlington, Ontario, Canada | CAD 55,000.00–70,000.00 / yearly | 2026-10-22 | 1d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481389225"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Communications Specialist — Roylo Partners | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-22 | 1d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481370975"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Administrative Assistant II — University Health Network | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482132306"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Administrative Assistant III — University Health Network | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482165897"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Operations Representative Data Entry Remediation — Purolator Inc. | Etobicoke, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481139789"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Marketing Assistant — Roylo Partners | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481127813"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Publicity &amp; Influencer Marketing Coordinator — Simon Pure Marketing Inc. | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481150747"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Creative Marketing Coordinator — The Feldman Agency | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481168246"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Legal Assistant Opportunities! — EStaffSearch | Toronto, Ontario, Canada | CAD 60,000.00–85,000.00 / yearly | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4420951651"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Customer Service Rep – Automotive (On-Site) — Enigma Corporation | Mississauga, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4482131676"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Customer Service Representative — Fuze Logistics Services Inc | Mississauga, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4479423921"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Customer Service Representative — Fuze Logistics Services Inc | Mississauga, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4479436531"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| Customer Support Specialist — Pontosense | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-21 | 2d | Posting verified | <a href="https://www.linkedin.com/jobs/view/4481144778"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
 
 ## How this works
 
