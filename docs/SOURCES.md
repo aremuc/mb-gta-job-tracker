@@ -1,8 +1,8 @@
 # Source health
 
-[Home](../README.md) · Last collection attempt: 2026-10-24T12:54:23-04:00
+[Home](../README.md) · Last collection attempt: 2026-10-25T13:12:29-04:00
 
-Views generated: 2026-10-24T12:54:23-04:00. Rendering alone does not refresh source checks.
+Views generated: 2026-10-25T13:12:29-04:00. Rendering alone does not refresh source checks.
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
@@ -14,9 +14,9 @@ Views generated: 2026-10-24T12:54:23-04:00. Rendering alone does not refresh sou
 | JobSpy: legal assistant / Brampton, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: program assistant / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: customer service representative / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: client services representative / Ontario, Canada | ok | 32 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
+| JobSpy: client services representative / Ontario, Canada | degraded | 22 | {&quot;errors&quot;: {&quot;linkedin&quot;: &quot;response status code 429 (blocked: use a proxy)&quot;}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
 | JobSpy: administrative assistant / Ontario, Canada | ok | 22 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
-| SmartRecruiters: WilliamOslerHealthSystem1 | ok | 1 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| SmartRecruiters: WilliamOslerHealthSystem1 | ok | 0 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | SmartRecruiters: HaltonHealthcare1 | ok | 4 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | City of Mississauga | ok | 0 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | University of Toronto | ok | 7 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
