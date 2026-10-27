@@ -1,25 +1,25 @@
 # Source health
 
-[Home](../README.md) · Last collection attempt: 2026-10-26T15:31:52-04:00
+[Home](../README.md) · Last collection attempt: 2026-10-27T14:54:54-04:00
 
-Views generated: 2026-10-26T15:31:52-04:00. Rendering alone does not refresh source checks.
+Views generated: 2026-10-27T14:54:54-04:00. Rendering alone does not refresh source checks.
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
 | JobSpy: administrative assistant / Brampton, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: office coordinator / Mississauga, ON | degraded | 20 | {&quot;errors&quot;: {&quot;linkedin&quot;: &quot;response status code 429 (blocked: use a proxy)&quot;}, &quot;warnings&quot;: {}} |
+| JobSpy: office coordinator / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: records clerk / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: document management / Toronto, ON | degraded | 30 | {&quot;errors&quot;: {&quot;linkedin&quot;: &quot;response status code 429 (blocked: use a proxy)&quot;}, &quot;warnings&quot;: {}} |
-| JobSpy: communications assistant / Toronto, ON | degraded | 4 | {&quot;errors&quot;: {&quot;linkedin&quot;: &quot;response status code 429 (blocked: use a proxy)&quot;}, &quot;warnings&quot;: {}} |
+| JobSpy: document management / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: communications assistant / Toronto, ON | ok | 27 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: legal assistant / Brampton, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: program assistant / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: customer service representative / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: client services representative / Ontario, Canada | ok | 29 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
-| JobSpy: administrative assistant / Ontario, Canada | degraded | 13 | {&quot;errors&quot;: {&quot;linkedin&quot;: &quot;response status code 429 (blocked: use a proxy)&quot;}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
+| JobSpy: administrative assistant / Ontario, Canada | ok | 22 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
 | SmartRecruiters: WilliamOslerHealthSystem1 | ok | 0 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| SmartRecruiters: HaltonHealthcare1 | ok | 4 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| SmartRecruiters: HaltonHealthcare1 | ok | 5 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | City of Mississauga | ok | 0 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| University of Toronto | ok | 10 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| University of Toronto | ok | 9 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 
 ## Coverage limits
 
