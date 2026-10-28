@@ -5,8 +5,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 17.4,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 19.3,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: office coordinator / Mississauga, ON",
@@ -14,8 +14,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 16.3,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 19.3,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: records clerk / Mississauga, ON",
@@ -23,8 +23,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 16.7,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 19.8,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: document management / Toronto, ON",
@@ -32,17 +32,17 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.9,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 21.3,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: communications assistant / Toronto, ON",
     "status": "ok",
-    "count": 27,
+    "count": 28,
     "errors": {},
     "warnings": {},
-    "seconds": 17.1,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 20.5,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: legal assistant / Brampton, ON",
@@ -50,8 +50,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 17.7,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 18.5,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: program assistant / Toronto, ON",
@@ -59,8 +59,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 17.7,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 21.8,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: customer service representative / Mississauga, ON",
@@ -68,8 +68,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.4,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 19.0,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: client services representative / Ontario, Canada",
@@ -81,44 +81,44 @@
         "is_remote isn't supported, ignoring it"
       ]
     },
-    "seconds": 17.7,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 20.6,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "JobSpy: administrative assistant / Ontario, Canada",
     "status": "ok",
-    "count": 22,
+    "count": 23,
     "errors": {},
     "warnings": {
       "linkedin": [
         "is_remote isn't supported, ignoring it"
       ]
     },
-    "seconds": 19.5,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "seconds": 18.8,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "SmartRecruiters: WilliamOslerHealthSystem1",
     "status": "ok",
     "count": 0,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "SmartRecruiters: HaltonHealthcare1",
     "status": "ok",
-    "count": 5,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "count": 3,
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "City of Mississauga",
     "status": "ok",
     "count": 0,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "checked_at": "2026-10-28T15:04:21-04:00"
   },
   {
     "source": "University of Toronto",
     "status": "ok",
     "count": 9,
-    "checked_at": "2026-10-27T14:54:54-04:00"
+    "checked_at": "2026-10-28T15:04:21-04:00"
   }
 ]
