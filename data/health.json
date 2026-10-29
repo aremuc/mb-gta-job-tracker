@@ -5,8 +5,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.3,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 19.8,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: office coordinator / Mississauga, ON",
@@ -14,8 +14,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.3,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 17.6,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: records clerk / Mississauga, ON",
@@ -23,8 +23,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.8,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 15.2,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: document management / Toronto, ON",
@@ -32,26 +32,30 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 21.3,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 14.8,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: communications assistant / Toronto, ON",
-    "status": "ok",
-    "count": 28,
-    "errors": {},
+    "status": "degraded",
+    "count": 9,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {},
-    "seconds": 20.5,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 0.3,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: legal assistant / Brampton, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
+    "status": "degraded",
+    "count": 20,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {},
-    "seconds": 18.5,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 0.3,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: program assistant / Toronto, ON",
@@ -59,8 +63,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 21.8,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 17.1,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: customer service representative / Mississauga, ON",
@@ -68,21 +72,23 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.0,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 15.6,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: client services representative / Ontario, Canada",
-    "status": "ok",
-    "count": 29,
-    "errors": {},
+    "status": "degraded",
+    "count": 7,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {
       "linkedin": [
         "is_remote isn't supported, ignoring it"
       ]
     },
-    "seconds": 20.6,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 0.4,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "JobSpy: administrative assistant / Ontario, Canada",
@@ -94,31 +100,31 @@
         "is_remote isn't supported, ignoring it"
       ]
     },
-    "seconds": 18.8,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "seconds": 19.9,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "SmartRecruiters: WilliamOslerHealthSystem1",
     "status": "ok",
     "count": 0,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "SmartRecruiters: HaltonHealthcare1",
     "status": "ok",
     "count": 3,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "City of Mississauga",
     "status": "ok",
     "count": 0,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "checked_at": "2026-10-29T15:11:06-04:00"
   },
   {
     "source": "University of Toronto",
     "status": "ok",
-    "count": 9,
-    "checked_at": "2026-10-28T15:04:21-04:00"
+    "count": 7,
+    "checked_at": "2026-10-29T15:11:06-04:00"
   }
 ]
