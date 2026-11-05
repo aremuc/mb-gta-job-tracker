@@ -38,7 +38,8 @@ def main():
             rows, health = discover(config, config["lookback_days"] if args.backfill else config["daily_lookback_days"])
         for source in health:
             source["checked_at"] = now
-        # No usable data: preserve jobs entirely; write failure report for Actions.
+        # On a total source outage, preserve the stored jobs file byte-for-byte.
+        # Only refresh source health and rendered reports; do not persist scoped records.
         if not rows:
             atomic_json(health_path, health)
             render(ROOT, existing, health, now)
