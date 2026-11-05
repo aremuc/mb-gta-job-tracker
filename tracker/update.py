@@ -40,7 +40,6 @@ def main():
             source["checked_at"] = now
         # No usable data: preserve jobs entirely; write failure report for Actions.
         if not rows:
-            atomic_json(path, existing)
             atomic_json(health_path, health)
             render(ROOT, existing, health, now)
             print("No rows received. Existing job data preserved; inspect source health.")
