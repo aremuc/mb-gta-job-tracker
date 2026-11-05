@@ -2,7 +2,7 @@
 
 [Home](../README.md) · Last collection attempt: 2026-11-04T15:31:16-05:00
 
-Views generated: 2026-11-04T15:31:16-05:00. Rendering alone does not refresh source checks.
+Views generated: 2026-11-05T16:23:20-05:00. Rendering alone does not refresh source checks.
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|

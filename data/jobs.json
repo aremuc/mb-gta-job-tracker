@@ -114,7 +114,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-31T13:55:02-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-09",
@@ -148,7 +148,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-23T13:57:15-04:00"
@@ -180,7 +180,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -211,7 +211,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -241,7 +241,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-31T13:55:02-04:00"
   },
@@ -364,7 +364,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-23T13:57:15-04:00"
@@ -394,7 +394,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -454,7 +454,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -580,7 +580,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -678,7 +678,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -709,7 +709,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -740,7 +740,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -771,7 +771,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -893,7 +893,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -923,7 +923,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -953,7 +953,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -1079,7 +1079,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -1111,7 +1111,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-01",
@@ -1179,7 +1179,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "deadline": null,
     "employer_posted_date": "2026-09-14",
@@ -1273,7 +1273,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -1304,7 +1304,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4479768270 (Caused by ResponseError('too m",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -1336,7 +1336,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -1367,7 +1367,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-23T13:57:15-04:00"
@@ -1398,7 +1398,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4466641954 (Caused by ResponseError('too m",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -1429,7 +1429,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4471384817 (Caused by ResponseError('too m",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -1526,7 +1526,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -1556,7 +1556,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -1587,7 +1587,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -1618,7 +1618,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -1648,7 +1648,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -1679,7 +1679,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_checked": "2026-10-31T13:55:02-04:00",
     "last_verified": "2026-10-31T13:55:02-04:00",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
@@ -1713,7 +1713,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-23T13:57:15-04:00"
   },
@@ -1743,7 +1743,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -1864,7 +1864,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -1985,7 +1985,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -2015,7 +2015,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -2260,7 +2260,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -2720,7 +2720,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -3063,7 +3063,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-24T12:54:23-04:00"
   },
@@ -3278,7 +3278,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-24T12:54:23-04:00"
   },
@@ -3371,7 +3371,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
     "last_checked": "2026-11-02T17:27:35-05:00",
     "last_verified": "2026-11-02T17:27:35-05:00",
@@ -3531,7 +3531,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-24T12:54:23-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-20",
@@ -3694,7 +3694,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.ayaoakville.com', port=443): Max retries exceeded with url: /company/inquiries/career.html (Caused by SSLError",
     "last_checked": "2026-10-24T12:54:23-04:00"
   },
@@ -3725,7 +3725,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.ayacastlefield.com', port=443): Max retries exceeded with url: /company/inquiries/career.html (Caused by SSLEr",
     "last_checked": "2026-10-24T12:54:23-04:00"
   },
@@ -3964,7 +3964,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-02T17:27:35-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-02T17:27:35-05:00"
@@ -3994,7 +3994,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-02T17:27:35-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-02T17:27:35-05:00"
@@ -4237,7 +4237,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-24T12:54:23-04:00"
   },
@@ -4513,7 +4513,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T07:08:59-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-23T07:08:59-04:00"
@@ -4726,7 +4726,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T07:08:59-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-23T07:08:59-04:00"
@@ -5069,7 +5069,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-23T07:08:59-04:00"
   },
@@ -5158,7 +5158,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4434573057 (Caused by ResponseError('too m",
     "last_checked": "2026-10-23T07:08:59-04:00"
   },
@@ -5805,7 +5805,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-23T07:08:59-04:00"
   },
@@ -5834,7 +5834,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-23T07:08:59-04:00"
   },
@@ -5866,7 +5866,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-20",
@@ -5931,7 +5931,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-25T13:12:29-04:00"
   },
@@ -5963,7 +5963,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-25T13:12:29-04:00"
   },
@@ -6088,7 +6088,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-23T07:08:59-04:00"
   },
@@ -6152,7 +6152,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "deadline": null,
     "employer_posted_date": "2026-09-17",
@@ -6339,7 +6339,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T07:08:59-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-23T07:08:59-04:00"
@@ -6554,7 +6554,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T07:08:59-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-23T07:08:59-04:00"
@@ -6770,7 +6770,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T07:08:59-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-23T07:08:59-04:00"
@@ -19819,11 +19819,11 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Closed",
     "last_verified": "2026-10-31T13:55:02-04:00",
     "deadline": "2026-11-04",
     "employer_posted_date": "2026-10-28",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "verification_note": "Previously observed employer deadline has passed",
     "last_checked": "2026-10-31T13:55:02-04:00"
   },
   {
