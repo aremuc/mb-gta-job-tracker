@@ -1,6 +1,6 @@
 # Excluded
 
-[Home](../README.md) · Updated 2026-11-05T16:23:20-05:00
+[Home](../README.md) · Updated 2026-11-05T16:25:29-05:00
 
 | Role / employer | Location | Pay | Posted | Age | Status | Apply |
 |---|---|---|---|---|---|---|

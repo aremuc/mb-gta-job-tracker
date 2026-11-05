@@ -1,6 +1,6 @@
 # Archive
 
-[Home](../README.md) · Updated 2026-11-05T16:23:20-05:00
+[Home](../README.md) · Updated 2026-11-05T16:25:29-05:00
 
 | Role / employer | Location | Pay | Posted | Age | Status | Apply |
 |---|---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | Facilities and Administrative Coordinator — OPTRUST | Toronto, ON, Canada | CAD 71,899.00–80,289.00 / yearly | 2026-10-19 | 17d | Closed | <a href="https://optrust.wd3.myworkdayjobs.com/en-US/OPTrust/job/Toronto-ON/Facilities-and-Administrative-Coordinator_R1308"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
 | Executive Assistant — Canadian Football League | Toronto, ON, Canada | CAD 65,000.00–75,000.00 / yearly | 2026-10-17 | 19d | Closed | <a href="https://www.teamworkonline.com/football-jobs/cfljobs/cfl/executive-assistant-2195185"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
 | Legal Assistant, Litigation — Fasken | Toronto, ON, Canada | CAD 55,000.00–75,000.00 / yearly | 2026-11-02 | 3d | Closed | <a href="https://recruiting.ultipro.ca/FMD5000FMD/JobBoard/ffa183b1-98fc-4f2f-8b3a-964fe70f1167/OpportunityDetail"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
+| HUB-NU26-56 Communications and Special Projects Coordinator, HUB — Springboard | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-19 | 17d | Closed | <a href="https://www.linkedin.com/jobs/view/4481208948"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
 | Social Media Coordinator — Forest Hill Farmhouse | Toronto, Ontario, Canada | Not disclosed / not extracted | 2026-10-19 | 17d | Closed | <a href="https://www.linkedin.com/jobs/view/4480289327"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
 | Intermediate Legal Administrative Assistant - Environmental Law — Gowling WLG | Toronto, Ontario, Canada | CAD 61,000.00–79,000.00 / yearly | 2026-10-21 | 15d | Closed | <a href="https://www.linkedin.com/jobs/view/4472364604"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
 | Customer Experience Associate — TD | Woodbridge, ON, Canada | CAD 22.50–28.33 / hourly | 2026-10-19 | 17d | Closed | <a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Woodbridge-Ontario/Customer-Experience-Associate_R_1517322"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> |
