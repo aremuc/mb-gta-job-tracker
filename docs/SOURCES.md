@@ -1,8 +1,8 @@
 # Source health
 
-[Home](../README.md) · Last collection attempt: 2026-11-05T16:25:29-05:00
+[Home](../README.md) · Last collection attempt: 2026-11-06T15:04:19-05:00
 
-Views generated: 2026-11-05T16:25:29-05:00. Rendering alone does not refresh source checks.
+Views generated: 2026-11-06T15:04:19-05:00. Rendering alone does not refresh source checks.
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
@@ -17,9 +17,9 @@ Views generated: 2026-11-05T16:25:29-05:00. Rendering alone does not refresh sou
 | JobSpy: client services representative / Ontario, Canada | ok | 30 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
 | JobSpy: administrative assistant / Ontario, Canada | ok | 20 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {&quot;linkedin&quot;: &#91;&quot;is_remote isn&#x27;t supported, ignoring it&quot;&#93;}} |
 | SmartRecruiters: WilliamOslerHealthSystem1 | ok | 0 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| SmartRecruiters: HaltonHealthcare1 | ok | 4 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| SmartRecruiters: HaltonHealthcare1 | ok | 5 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | City of Mississauga | ok | 1 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| University of Toronto | ok | 6 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| University of Toronto | ok | 5 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 
 ## Coverage limits
 
