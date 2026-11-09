@@ -148,7 +148,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
@@ -180,7 +180,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -211,7 +211,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -364,7 +364,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-08T13:28:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-08T13:28:26-05:00"
@@ -486,7 +486,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -678,7 +678,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -709,7 +709,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -740,7 +740,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -771,7 +771,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -832,7 +832,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-22T16:05:31-04:00",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4471545507 (Caused by ResponseError('too m",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -980,7 +980,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T15:54:39-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -1079,7 +1079,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -1179,7 +1179,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-08T13:28:26-05:00",
     "deadline": null,
     "employer_posted_date": "2026-09-14",
@@ -1367,7 +1367,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
@@ -1526,7 +1526,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -1618,7 +1618,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -1713,7 +1713,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -1830,7 +1830,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T15:54:39-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -1860,7 +1860,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T15:54:39-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -1871,14 +1871,15 @@
   },
   {
     "category": "Administration",
-    "tier": "Priority",
-    "employment": "fulltime",
+    "tier": "Review",
+    "employment": "Unspecified",
     "flags": [
       "Check required experience and software skills against your résumé",
-      "Commute review: transit from Brampton not verified"
+      "Commute review: transit from Brampton not verified",
+      "Employment type not established"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "The Client Administration function is a vital part of the firm’s Business Enablement Services and is focused on achieving client service excellence by delivering timely, high quality products, and encouraging an environment that increases both the staff and client experience. Minimum 5 years administration experience. College diploma or an equivalent combination of education and experience with an administrative assistant skill set. The expected base salary range for this position is $47,000 to $60,000 and may be eligible for bonus awards. The determination of an applicant’s base salary within this range",
+    "evidence": "",
     "match_reason": "Title aligns with the administration search; requirements need individual review",
     "id": "bb63640bc52425ff",
     "title": "Partner Administrative Assistant, Audit",
@@ -1891,7 +1892,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T15:54:39-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -1902,13 +1903,14 @@
   },
   {
     "category": "Administration",
-    "tier": "Priority",
-    "employment": "fulltime",
+    "tier": "Review",
+    "employment": "Unspecified",
     "flags": [
-      "Check required experience and software skills against your résumé"
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Drawing on industry experience in a financial services firm or previous experience in an administrative role, you will be responsible for providing administrative support to the Financial Advisor team and outstanding service to client. Previous experience with use of Social Media (Facebook, LinkedIn, Twitter, Instagram & YouTube); Education And Experience Minimum 2 years of administrative experience; and Previous experience using a CRM (Customer Relationship Management) software is an asset.",
+    "evidence": "",
     "match_reason": "Title aligns with the administration search; requirements need individual review",
     "id": "0fb6217e1fc50ad2",
     "title": "Administrative Assistant",
@@ -1921,7 +1923,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T15:54:39-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -2291,9 +2293,9 @@
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-24T12:54:23-04:00",
+    "last_verified": "2026-11-09T18:08:18-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -2415,9 +2417,9 @@
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-24T12:54:23-04:00",
+    "last_verified": "2026-11-09T18:08:18-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -2592,7 +2594,7 @@
     "posted_date": "2026-11-07",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -2753,9 +2755,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
-    "verification_note": "Request failed: HTTPSConnectionPool(host='careers.hologic.com', port=443): Max retries exceeded with url: /search/300000487650497/office-coordinator-18-mont",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "status": "Posting verified",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00",
+    "last_verified": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -2785,7 +2788,7 @@
     ],
     "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -2813,9 +2816,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -2844,10 +2847,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-10-24T12:54:23-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -2908,7 +2911,7 @@
     ],
     "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Client services",
@@ -2940,7 +2943,7 @@
     ],
     "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -3003,7 +3006,7 @@
     ],
     "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -3063,9 +3066,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -3093,10 +3096,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-24T12:54:23-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -3124,10 +3127,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Closed",
     "last_verified": "2026-10-24T12:54:23-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -3155,10 +3158,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-10-24T12:54:23-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -3187,9 +3190,9 @@
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-24T12:54:23-04:00",
+    "last_verified": "2026-11-09T18:08:18-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Administration",
@@ -3278,9 +3281,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Legal support",
@@ -3311,7 +3314,7 @@
     ],
     "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Records and documents",
@@ -3340,9 +3343,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "status": "Closed",
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Records and documents",
@@ -3441,7 +3444,7 @@
     ],
     "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Records and documents",
@@ -3502,7 +3505,7 @@
     ],
     "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Records and documents",
@@ -3531,12 +3534,12 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-10-24T12:54:23-04:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-20",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-24T12:54:23-04:00"
+    "last_checked": "2026-11-09T18:08:18-05:00"
   },
   {
     "category": "Legal support",
@@ -3564,7 +3567,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-02T17:27:35-05:00"
   },
@@ -3873,7 +3876,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-24T12:54:23-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-24T12:54:23-04:00"
@@ -3903,7 +3906,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-02T17:27:35-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-02T17:27:35-05:00"
@@ -4081,7 +4084,7 @@
     "posted_date": "2026-11-07",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -4207,7 +4210,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-02T17:27:35-05:00"
   },
@@ -4299,7 +4302,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-24T12:54:23-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-24T12:54:23-04:00"
@@ -4330,7 +4333,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-24T12:54:23-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-24T12:54:23-04:00"
@@ -4361,7 +4364,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-07T13:15:54-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-07T13:15:54-05:00"
@@ -4854,7 +4857,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-05T16:25:29-05:00"
   },
@@ -4917,7 +4920,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-24T12:54:23-04:00"
   },
@@ -4947,7 +4950,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-05T16:25:29-05:00"
   },
@@ -5461,7 +5464,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -5472,14 +5475,13 @@
   },
   {
     "category": "Legal support",
-    "tier": "Review",
-    "employment": "Unspecified",
+    "tier": "Priority",
+    "employment": "fulltime",
     "flags": [
-      "Check required experience and software skills against your résumé",
-      "Employment type not established"
+      "Check required experience and software skills against your résumé"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "",
+    "evidence": "Permanent Position – Hybrid Required Knowledge And Experience 3+ years’ working experience (large firm experience). Experience working with 3E and iManage Work an asset. $55,000 to $75,000 per annum.",
     "match_reason": "Title aligns with the legal support search; requirements need individual review",
     "id": "dc327ebde65e7f3f",
     "title": "Legal Assistant, Banking and Finance",
@@ -5489,10 +5491,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4479622468"
     ],
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-11-07",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-10-23T13:57:15-04:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -5900,7 +5902,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-25T13:12:29-04:00"
   },
@@ -6493,7 +6495,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-25T13:12:29-04:00"
@@ -6582,7 +6584,7 @@
     "posted_date": "2026-11-07",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -6740,7 +6742,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T07:08:59-04:00",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4471519288 (Caused by ResponseError('too m",
     "last_checked": "2026-11-07T13:15:54-05:00"
@@ -6804,7 +6806,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-25T13:12:29-04:00"
@@ -8117,7 +8119,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-23T07:08:59-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -8182,7 +8184,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-25T13:12:29-04:00"
@@ -8507,7 +8509,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-07T13:15:54-05:00"
@@ -8540,7 +8542,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-25T13:12:29-04:00"
@@ -8572,7 +8574,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-25T13:12:29-04:00"
   },
@@ -8603,7 +8605,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-26T15:31:52-04:00",
     "deadline": "2026-11-10",
     "employer_posted_date": "2026-10-19",
@@ -8849,7 +8851,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-08T13:28:26-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-20",
@@ -8912,7 +8914,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-24T12:54:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
@@ -9002,7 +9004,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -9154,7 +9156,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/project-control-officer-jobs?trk=expired_jd_red",
     "last_checked": "2026-11-08T13:28:26-05:00"
@@ -9215,7 +9217,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -9335,7 +9337,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-08T13:28:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-08T13:28:26-05:00"
@@ -9398,7 +9400,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-23T13:57:15-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
@@ -9615,7 +9617,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "employer_posted_date": "2026-09-03",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
     "last_verified": "2026-10-26T15:31:52-04:00",
@@ -9648,7 +9650,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -9867,7 +9869,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T12:54:23-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -9994,7 +9996,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-26T15:31:52-04:00"
   },
@@ -10087,7 +10089,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-26T15:31:52-04:00"
   },
@@ -10520,7 +10522,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-24T12:54:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T13:28:26-05:00"
@@ -10704,7 +10706,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-26T15:31:52-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-26T15:31:52-04:00"
@@ -10864,7 +10866,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 403",
     "last_checked": "2026-10-25T13:12:29-04:00"
   },
@@ -10989,7 +10991,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-26T15:31:52-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-26T15:31:52-04:00"
@@ -11298,7 +11300,7 @@
     "posted_date": "2026-10-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-26T15:31:52-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -11422,7 +11424,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-26T15:31:52-04:00"
   },
@@ -11513,7 +11515,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -11752,7 +11754,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-26T15:31:52-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -11789,7 +11791,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4480459968 (Caused by ResponseError('too m",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -11881,7 +11883,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-26T15:31:52-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-26T15:31:52-04:00"
@@ -11944,7 +11946,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -11975,7 +11977,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-27T14:54:54-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-27T14:54:54-04:00"
@@ -14124,7 +14126,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-28T15:04:21-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -14374,7 +14376,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-28T15:04:21-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -18406,7 +18408,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:49:06-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -18869,7 +18871,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:49:06-04:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -21280,7 +21282,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:27:35-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -21961,7 +21963,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:27:35-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -22122,7 +22124,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:27:35-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -22182,7 +22184,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:27:35-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -22400,7 +22402,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "City of Mississauga",
       "indeed"
@@ -22520,7 +22522,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -22551,7 +22553,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -22772,7 +22774,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -22786,27 +22788,28 @@
     "employment": "Unspecified",
     "flags": [
       "Check required experience and software skills against your résumé",
-      "Experience requirement: review the stated years carefully",
       "Employment type not established",
       "Check law-clerk credential requirements"
     ],
-    "salary": "CAD 90,000.00–115,000.00 / yearly",
-    "evidence": "Minimum 5 years of experience as a Corporate Law Clerk The salary range for this position is $90,000 - $115,000 annually; the base pay offered may vary depending on job-related knowledge, skills, experience, and internal and market equity.",
+    "salary": "CAD 70,000.00–80,000.00 / yearly",
+    "evidence": "Minimum 2 years previous experience as a Real Estate Law Clerk or an experienced legal assistant looking to transition into a clerk role The salary range for this position is $70,000 to $80,000 annually; the base pay offered may vary depending on job-related knowledge, skills, experience, and internal and market equity.",
     "match_reason": "Title aligns with the legal support search; requirements need individual review",
     "id": "2ba4199a89e71c1d",
-    "title": "Law Clerk - Corporate",
+    "title": "Junior Law Clerk - Real Estate",
     "company": "Aird & Berlis LLP",
     "location": "Toronto, ON, Canada",
     "url": "https://recruiting.ultipro.ca/MAX5000MAXIM/JobBoard/09356eeb-3819-45a5-a3ba-86a97668872c/OpportunityDetail",
     "urls": [
       "https://ca.indeed.com/viewjob?jk=1233f14e01f07e2b",
       "https://ca.indeed.com/viewjob?jk=989d6b9d5ae3aaf0",
+      "https://ca.indeed.com/viewjob?jk=a236356180bdb0da",
+      "https://ca.indeed.com/viewjob?jk=d98249b1cc385781",
       "https://recruiting.ultipro.ca/MAX5000MAXIM/JobBoard/09356eeb-3819-45a5-a3ba-86a97668872c/OpportunityDetail"
     ],
-    "posted_date": "2026-11-03",
+    "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -23195,14 +23198,13 @@
   },
   {
     "category": "Records and documents",
-    "tier": "Review",
-    "employment": "Unspecified",
+    "tier": "Priority",
+    "employment": "fulltime",
     "flags": [
-      "Check required experience and software skills against your résumé",
-      "Employment type not established"
+      "Check required experience and software skills against your résumé"
     ],
-    "salary": "Not disclosed / not extracted",
-    "evidence": "",
+    "salary": "CAD 70,000.00–100,000.00 / yearly",
+    "evidence": "The NC project has been divided into two main progressive design-build contracts: (1) the Elevated Guideways and Stations Contract (“EGS”) and the Pape Tunnel and Underground Station Contract (“PTUS”), with supporting Early Works. • Facilitate effective communication and collaboration among project teams, subcontractors, consultants, and other stakeholders regarding document control • Ensure compliance with regulatory requirements, contractual obligations, and industry standards related to document management and control. • Work collaboratively with the Contracting Authority during all stages of the project. • Construction Documents: Familiarity with construction drawings, specifications, contracts, RFIs,",
     "match_reason": "Title aligns with the records and documents search; requirements need individual review",
     "id": "ceb5fd5463d31a7a",
     "title": "Document Controller",
@@ -23215,7 +23217,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -23370,7 +23372,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -23411,13 +23413,14 @@
   },
   {
     "category": "Legal support",
-    "tier": "Priority",
-    "employment": "fulltime",
+    "tier": "Review",
+    "employment": "Unspecified",
     "flags": [
-      "Check required experience and software skills against your résumé"
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
     ],
-    "salary": "CAD 60,000.00–65,000.00 / yearly",
-    "evidence": "Our client, a well-established labour and employment law firm in midtown Toronto, is seeking an experienced Litigation Legal Assistant to join its team. 2+ years of law firm experience, ideally supporting a civil litigation practice Experience with a cloud-based legal practice management platform is an asset Base salary of $60,000–$65,000",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
     "match_reason": "Title aligns with the legal support search; requirements need individual review",
     "id": "3db435933de0246d",
     "title": "Legal Assistant",
@@ -23430,7 +23433,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -23461,7 +23464,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -23677,7 +23680,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -23932,7 +23935,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -23963,7 +23966,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -23995,7 +23998,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Employer release date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
@@ -24026,7 +24029,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Employer release date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
@@ -24057,7 +24060,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Employer release date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
@@ -24087,7 +24090,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-05T16:25:29-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -24294,7 +24297,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -24443,7 +24446,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -24486,13 +24489,14 @@
   },
   {
     "category": "Administration",
-    "tier": "Priority",
-    "employment": "fulltime",
+    "tier": "Review",
+    "employment": "Unspecified",
     "flags": [
-      "Check required experience and software skills against your résumé"
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "With 100 years of experience advising at the intersection of family and business, Richter has developed an integrated approach to help business owners find sustainable success. Coordinate with custodians, clients, and internal stakeholders to address inquiries and enhance the client experience. 2-3 years of work experience in financial or banking industry or in a professional services firm, an asset The salary range for this position is $50,000 - $74,000, and employees may also be eligible to participate in our bonus program. Salaries within the range reflect individual contributions and are",
+    "evidence": "",
     "match_reason": "Title aligns with the administration search; requirements need individual review",
     "id": "352fbdfff2d40b33",
     "title": "Administrative Assistant, Richter Family Office",
@@ -24505,7 +24509,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24627,7 +24631,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -24690,7 +24694,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24721,7 +24725,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24751,7 +24755,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24781,7 +24785,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24812,7 +24816,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-04T15:31:16-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -24873,7 +24877,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -24883,13 +24887,14 @@
   },
   {
     "category": "Records and documents",
-    "tier": "Priority",
-    "employment": "fulltime",
+    "tier": "Review",
+    "employment": "Unspecified",
     "flags": [
-      "Check required experience and software skills against your résumé"
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "With more than a century of experience and a full suite of integrated services, Aecon is a trusted partner for delivering complex civil projects, including tunnels, transit expansions, airports, ports, highways, and large-scale site development. This may extend to external users such as vendors, contractors, consultants, third parties, and clients. Post-secondary education, Bachelor's Degree or College Diploma preferred, or equivalent experience. A minimum of 5 years of document control experience in a construction project/site environment. Experience working in a site/project team environment with the proven ability to build relationships with",
+    "evidence": "",
     "match_reason": "Title aligns with the records and documents search; requirements need individual review",
     "id": "f5136be8f261ed4b",
     "title": "Document Controller - Future opportunities",
@@ -24902,7 +24907,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24995,7 +25000,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25005,13 +25010,14 @@
   },
   {
     "category": "Records and documents",
-    "tier": "Priority",
-    "employment": "fulltime",
+    "tier": "Review",
+    "employment": "Unspecified",
     "flags": [
-      "Check required experience and software skills against your résumé"
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
     ],
-    "salary": "CAD 90,000.00–110,000.00 / yearly",
-    "evidence": "Educational Qualification Experience with document optimization and quality-control processes Salary Range - CA$ 90,000 - CA$ 110,000 Per Year Candidates that meet the qualifications for this position will be contacted within a 2-week period.",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
     "match_reason": "Title aligns with the records and documents search; requirements need individual review",
     "id": "b58653f1f207e2b6",
     "title": "Document Publisher CMC",
@@ -25024,7 +25030,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25088,7 +25094,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -25150,7 +25156,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25212,7 +25218,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25305,7 +25311,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25433,7 +25439,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25493,7 +25499,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -25524,7 +25530,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -25685,7 +25691,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25717,7 +25723,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25808,7 +25814,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25903,7 +25909,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25964,7 +25970,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -25994,7 +26000,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -26058,7 +26064,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26210,7 +26216,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26240,7 +26246,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26313,14 +26319,13 @@
   },
   {
     "category": "Administration",
-    "tier": "Review",
-    "employment": "Unspecified",
+    "tier": "Priority",
+    "employment": "fulltime",
     "flags": [
-      "Check required experience and software skills against your résumé",
-      "Employment type not established"
+      "Check required experience and software skills against your résumé"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "",
+    "evidence": "Experience There is no option to work remotely. Manage contracts Experience and specialization Area of work experience",
     "match_reason": "Title aligns with the administration search; requirements need individual review",
     "id": "33a218c02b55b53b",
     "title": "administrative assistant",
@@ -26333,7 +26338,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26363,7 +26368,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26392,7 +26397,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26421,7 +26426,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26453,7 +26458,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26484,7 +26489,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26556,13 +26561,13 @@
   {
     "category": "Records and documents",
     "tier": "Review",
-    "employment": "fulltime",
+    "employment": "Unspecified",
     "flags": [
       "Check required experience and software skills against your résumé",
-      "Experience requirement: review the stated years carefully"
+      "Employment type not established"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Union Permanent Salary Grade: 5 ($76,213 - $89,443) Qualifications Minimum: No experience if a graduate of a preferred program, or 1-3 years in the public sector, a law firm or records management / library",
+    "evidence": "",
     "match_reason": "Title aligns with the records and documents search; requirements need individual review",
     "id": "c1862431698cd88a",
     "title": "Regulatory Records Coordinator",
@@ -26575,7 +26580,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26586,13 +26591,14 @@
   },
   {
     "category": "Records and documents",
-    "tier": "Priority",
-    "employment": "fulltime",
+    "tier": "Review",
+    "employment": "Unspecified",
     "flags": [
-      "Check required experience and software skills against your résumé"
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "These innovations enhance communication, improve efficiency, and create a more connected experience for patients and families. Permanent Full Time $29.966 - $31.016 Qualifications Experience in Radiology and IMS(PACS) environment is required.",
+    "evidence": "",
     "match_reason": "Title aligns with the records and documents search; requirements need individual review",
     "id": "7c24ca84675203fa",
     "title": "Clerical Support Associate, Medical Imaging",
@@ -26605,7 +26611,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26636,7 +26642,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-05T16:25:29-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26703,7 +26709,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26732,7 +26738,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26763,7 +26769,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26886,7 +26892,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26918,7 +26924,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26948,7 +26954,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -26962,14 +26968,15 @@
   {
     "category": "Administration",
     "tier": "Review",
-    "employment": "Unspecified",
+    "employment": "fulltime",
     "flags": [
       "Check required experience and software skills against your résumé",
       "Commute review: transit from Brampton not verified",
-      "Employment type not established"
+      "Driving mentioned: check whether required or preferred",
+      "Language requirement: check whether French is mandatory"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "",
+    "evidence": "Full Time We do this through strategic distribution models and patient support programs that are backed by powerful, integrated technology, a dedicated in-house creative agency, and experienced, cross-functional teams. Grade 12 education combined with 2 years of community college secretarial and/or equivalent work-related experience providing office administration services. Experience working in a Patient Support Program is a strong asset. Our permanent full-time employees are provided with a:",
     "match_reason": "Title aligns with the administration search; requirements need individual review",
     "id": "c2776291d4d679b9",
     "title": "Program Office Coordinator (Markham, ON) - Onsite",
@@ -26982,7 +26989,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27076,7 +27083,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-06T15:04:19-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27138,7 +27145,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-07T13:15:54-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27170,7 +27177,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27200,7 +27207,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27212,13 +27219,14 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "fulltime",
+    "employment": "Unspecified",
     "flags": [
       "Check required experience and software skills against your résumé",
-      "Language requirement: check whether French is mandatory"
+      "Language requirement: check whether French is mandatory",
+      "Employment type not established"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Manage service call when ATM is out-of-service for Plus Sites for all error codes but card reading or communication issues, verifying the error code in Webmon; dispatching to Remote Services (RMS) team when error code states anything but card reading or communication issue, ensuring proper notes are in system; confirming with RMS when error is fixed and checking Webmon to verify; adding notes to ERP system if terminal is still not working and dispatch a Service Technician to resolve on site. Experience, Technical Skills, And Key Competencies At least 3",
+    "evidence": "",
     "match_reason": "Title aligns with the client services search; requirements need individual review",
     "id": "4f7e81ec28a6a4d7",
     "title": "Bilingual Customer Service Representative",
@@ -27231,7 +27239,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27262,7 +27270,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27293,7 +27301,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27305,14 +27313,14 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "Unspecified",
+    "employment": "fulltime",
     "flags": [
       "Check required experience and software skills against your résumé",
       "Commute review: transit from Brampton not verified",
-      "Employment type not established"
+      "Experience requirement: review the stated years carefully"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "",
+    "evidence": "exciting full time, permanent opportunity $54,300 and $67,900 annually, based on experience and qualifications. Qualifications & Experience Minimum 5 years of experience as a customer service representative",
     "match_reason": "Title aligns with the client services search; requirements need individual review",
     "id": "097d55a69c354503",
     "title": "Customer Service Representative",
@@ -27325,7 +27333,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27355,7 +27363,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27386,7 +27394,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27416,7 +27424,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T16:25:29-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27479,7 +27487,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27510,7 +27518,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27540,7 +27548,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27570,7 +27578,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27601,7 +27609,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27632,7 +27640,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27665,7 +27673,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27733,7 +27741,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27765,7 +27773,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27796,7 +27804,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27825,7 +27833,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-06T15:04:19-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27851,12 +27859,13 @@
     "url": "https://conaservices.jobs2web.com/canada/job/Brampton-Fleet-Clerk-ON-L6T-5T4/1448231200",
     "urls": [
       "https://ca.indeed.com/viewjob?jk=1301d8fc92d9ca8e",
+      "https://ca.indeed.com/viewjob?jk=cf538ec2dfeac048",
       "https://conaservices.jobs2web.com/canada/job/Brampton-Fleet-Clerk-ON-L6T-5T4/1448231200"
     ],
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -27916,7 +27925,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27947,7 +27956,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -28038,7 +28047,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -28068,7 +28077,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -28098,7 +28107,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -28131,7 +28140,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28163,7 +28172,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28196,7 +28205,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28257,7 +28266,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28286,7 +28295,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -28441,7 +28450,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-06T15:04:19-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28471,7 +28480,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -28501,7 +28510,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -28533,7 +28542,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28564,7 +28573,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-06T15:04:19-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28595,7 +28604,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28659,7 +28668,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -28726,7 +28735,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28760,7 +28769,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Employer release date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
@@ -28821,7 +28830,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28852,7 +28861,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28882,7 +28891,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -28943,7 +28952,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -29003,7 +29012,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -29035,7 +29044,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -29129,7 +29138,7 @@
     "posted_date": "2026-11-07",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -29160,7 +29169,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -29191,7 +29200,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -29223,7 +29232,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-07T13:15:54-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -29349,7 +29358,7 @@
     "posted_date": "2026-11-07",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29380,7 +29389,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -29391,13 +29400,14 @@
   },
   {
     "category": "Administration",
-    "tier": "Priority",
-    "employment": "fulltime",
+    "tier": "Review",
+    "employment": "Unspecified",
     "flags": [
-      "Check required experience and software skills against your résumé"
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
     ],
-    "salary": "CAD 45,000.00–55,000.00 / yearly",
-    "evidence": "Qualifications & Skills Proven experience as a receptionist, office administrator, or similar role.",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
     "match_reason": "Title aligns with the administration search; requirements need individual review",
     "id": "eff1d639b525c91b",
     "title": "Office Administrator & Receptionist",
@@ -29410,7 +29420,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-08T13:28:26-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29470,7 +29480,7 @@
     "posted_date": "2026-11-08",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-08T13:28:26-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29500,7 +29510,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-08T13:28:26-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29530,7 +29540,7 @@
     "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-08T13:28:26-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29563,7 +29573,7 @@
     "posted_date": "2026-11-07",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-08T13:28:26-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "indeed"
     ],
@@ -29719,7 +29729,7 @@
     "posted_date": "2026-11-07",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-08T13:28:26-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29750,7 +29760,7 @@
     "posted_date": "2026-11-06",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-08T13:28:26-05:00",
-    "last_seen": "2026-11-08T13:28:26-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29758,5 +29768,1245 @@
     "last_verified": "2026-11-08T13:28:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-08T13:28:26-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 50,000.00 / yearly",
+    "evidence": "Required Qualifications Work closely with experienced leaders in a critical business function. Build valuable skills and experience in a supportive and collaborative environment. Pay: $50,000.00 per year Do you have 1+ years of administrative experience?",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "5ef5ae35ca6f9be7",
+    "title": "Health & Safety Administrative Assistant",
+    "company": "Onyx Fire Protection Services Inc.",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=4486fea4fb37b251",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=4486fea4fb37b251"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Experience requirement: review the stated years carefully"
+    ],
+    "salary": "CAD 48,000.00–53,000.00 / yearly",
+    "evidence": "Ekkinox is seeking an experienced administrative assistant to join our team. Previous experience using AS400 will be preferred. 1-3 years of experience in customer service in transportation Experience handling high call volume Experience working in cross border transportation is a must",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "a7f2a2659edee1c6",
+    "title": "Administrative Assistant - Transportation",
+    "company": "Ekkinox",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://portal.dynamicsats.com/JobListing/Details/a5694431-0ce1-45b7-bff2-a6c113b606a3/7d88c88c-f8d9-f111-84e8-7ced8da685ac",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=0b181679137ca4dc",
+      "https://portal.dynamicsats.com/JobListing/Details/a5694431-0ce1-45b7-bff2-a6c113b606a3/7d88c88c-f8d9-f111-84e8-7ced8da685ac"
+    ],
+    "posted_date": "2026-11-06",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Language requirement: check whether French is mandatory"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "To qualify for the role, you must have Post secondary education and/or equivalent relevant experience Professional services firm experience EY reports salary ranges in accordance with applicable provincial pay transparency legislation. Individual salaries within the anticipated salary ranges noted below are determined through a wide variety of factors including but not limited to internal equity, education, relevant experience, knowledge, and applicable skill sets.",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "15e094157f8791e0",
+    "title": "BEC Bilingual Administrative Assistant",
+    "company": "EY",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487173496",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487173496"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Language requirement: check whether French is mandatory",
+      "Experience requirement: review the stated years carefully"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Your salary will reflect your experience, starting at $55,000 per year plus performance bonuses. • 3+ years of experience as an executive assistant, senior administrative assistant or in a similar role supporting senior leaders • Experience with email marketing tools and website content management systems, or the willingness to learn them quickly • Experience in a non-profit or veteran-serving organization • Event coordination experience",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "7febebdb5f80c2c3",
+    "title": "Executive Office Assistant",
+    "company": "Coding for Veterans",
+    "location": "Greater Toronto Area, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4488817767",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4488817767"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 50,000.00–55,000.00 / yearly",
+    "evidence": "Please note that the role works full-time onsite (no remote work options). Desired Qualifications & Skills: At least 1 years of previous administrative and/or corporate office experience preferred Customer service or hospitality related experience",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "c0b2ef6132601fd9",
+    "title": "Administrative Assistant",
+    "company": "Peak Associates Limited",
+    "location": "North York, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4488811144",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4488811144"
+    ],
+    "posted_date": "2026-11-08",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Essential Qualifications: Advanced College Diploma (3 years)or acceptable combination of equivalent experience. Minimum three years, relevant experience providing administrative support in program administration, event coordination, and communications to an academic leader and researcher from the humanities and/ social sciences. Experience with relevant Graduate Academic program guidelines and administration. Relevant experience managing a very busy schedule and calendar. Experience arranging domestic and international research and engagement trips and organizing visits, including making travel and hotel arrangements.",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "c1bc62f3cad85ee5",
+    "title": "Administrative Coordinator",
+    "company": "University of Toronto",
+    "location": "Toronto, ON, Canada",
+    "url": "https://jobs.utoronto.ca/job/Toronto-Administrative-Coordinator-ON/607852417",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=9d72484d31a46def",
+      "https://jobs.utoronto.ca/job/Toronto-Administrative-Coordinator-ON/607852417"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "University of Toronto",
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Programs and community",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Experience requirement: review the stated years carefully",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "REQUIRED EXPERIENCES 3+ years experience as an assistant in a manufacturing environment preferred Supports, shared knowledge and experience with your Team through authentic conversations and development planning All assessments and decisions are conducted by qualified human professionals to ensure fairness, transparency, and compliance with Bill 149.",
+    "match_reason": "Title aligns with the programs and community search; requirements need individual review",
+    "id": "8b6acd43263c4aed",
+    "title": "HR & Operations Coordinator (Manufacturing)",
+    "company": "Wonderbrands",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://careersen-wonderbrands.icims.com/jobs/30318/job",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=898b46a34a6924c9",
+      "https://careersen-wonderbrands.icims.com/jobs/30318/job"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 80,000.00–85,000.00 / yearly",
+    "evidence": "Post-secondary education in Business Administration, Office Administration or a related field, or equivalent combination of education and experience. 5+ years of progressively responsible administrative experience, preferably supporting senior executives. Demonstrated experience managing complex calendars, travel and executive-level meetings. Experience in internal communications and social media content (such as LinkedIn), with strong writing skills and the judgment to communicate on behalf of senior leaders We prioritize Work-Life Balance, offering flexible working hours and hybrid remote work opportunities to support our employees in maintaining a healthy balance.",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "debd85a2080a1d9c",
+    "title": "Executive Assistant/Internal Communications Coordinator",
+    "company": "Endress+Hauser",
+    "location": "Burlington, ON, Canada",
+    "url": "https://careers.endress.com/job-invite/42212",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=06dde6d5f86bd184",
+      "https://careers.endress.com/job-invite/42212"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "QUALIFICATIONS: Previous data entry experience required. Previous experience in a hospital Admitting or registration department would be an asset.",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "9ca7dea1a2e429c7",
+    "title": "Patient Registration Clerk",
+    "company": "Unity Health Toronto",
+    "location": "Toronto, ON, Canada",
+    "url": "https://css-ezjf9k52wb5ac52e-prd.tam.ca1.inforcloudsuite.com:443/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D(1,17911,2)",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=50a759599994192b",
+      "https://css-ezjf9k52wb5ac52e-prd.tam.ca1.inforcloudsuite.com:443/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D(1,17911,2)"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Review",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Experience requirement: review the stated years carefully"
+    ],
+    "salary": "CAD 55,000.00–62,000.00 / yearly",
+    "evidence": "The successful candidate will have 3+ years of experience working in litigation and a desire to learn and to contribute to the success of our team. We encour­age applications from **all** qualified candidates and will accommodate applicants’ needs under the respective provincial human rights codes throughout all stages of the recruitment and selection process. The successful candidate has litigation experience, is confident and organized, possesses excellent communication, and takes pride in the quality of their work. As a Legal Assistant at Mills & Mills LLP you will work alongside other",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "a97d3b6f53b3bb68",
+    "title": "Litigation Legal Assistant",
+    "company": "Mills & Mills",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=d012a9245b5ae950",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=d012a9245b5ae950"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Job Details: Permanent Full Time (CUPE 1329) Salary Range: $56,833 - $69,282 Perform financial reconciliation activities, prepare reports, monitor outstanding accounts, and maintain the accuracy of cemetery financial, contractual, and administrative records. Completing contracts with families for the purchase of lots and provision of cemetery services. Qualifications",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "bb89b12f6be99cf1",
+    "title": "Cemetery Administrative Clerk, Town of Oakville",
+    "company": "Ontario Association of Cemetery and Funeral Professionals (OACFP)",
+    "location": "Oakville, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4489141119",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4489141119"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Review",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Experience requirement: review the stated years carefully"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Post changes to documents, especially construction drawings and related construction documents to maintain the most up-do-date construction documents for use by construction personnel (internal field personnel, client, and lower-tier contractors); 5-7 years of experience in document control; Experience with EDMS ACONEX; Construction industry (large infrastructure projects) experience; Gross annual salary between CAD$ 65K and 85K depending on experience and profile;",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "e195529700912c49",
+    "title": "Document controller H/F",
+    "company": "VINCI Construction Grands Projets Hellas S.A.",
+    "location": "Greater Toronto Area, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4489135224",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4489135224"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "We've been at this since 1970, challenging the conventions of traditional banking with smarter, faster, and more connected financial experiences. Undergraduate Degree or equivalent education and experience required. Legal Assistant, Law Clerk, Paralegal), or equivalent extensive administrative experience. 5 plus years of experience providing administrative coordination and support in a complex office environment. Previous experience working as a legal assistant or paralegal providing administrative support preferred.",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "f23a3efad34c2d82",
+    "title": "Corporate Legal Assistant",
+    "company": "EQ Bank",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4489127684",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4489127684"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Required Qualifications Work closely with experienced leaders in a critical business function. Build valuable skills and experience in a supportive and collaborative environment.",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "09d3aa64832bcc5c",
+    "title": "Health & Safety Administrative Assistant",
+    "company": "Onyx-Fire Protection Services Inc.",
+    "location": "Mississauga, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4489114992",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4489114992"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified",
+      "Employment type not established"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "As a Customer Experience Associate, you are the face, character and heart of our branches. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone.",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "569f2701e619c920",
+    "title": "Customer Experience Associate - Enterprise & Birchmount (30 hours/week)",
+    "company": "Scotiabank",
+    "location": "Markham, ON, Canada",
+    "url": "https://jobs.scotiabank.com/job/Markham-Customer-Experience-Associate-Enterprise-&-Birchmount-%2830-hoursweek%29-ON-L6G0E7/607843417",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=2e9fe8041170704a",
+      "https://jobs.scotiabank.com/job/Markham-Customer-Experience-Associate-Enterprise-&-Birchmount-%2830-hoursweek%29-ON-L6G0E7/607843417"
+    ],
+    "posted_date": "2026-11-08",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Check law-clerk credential requirements"
+    ],
+    "salary": "CAD 18.51 / hourly",
+    "evidence": "Compensation**: $18.51 CAD/Hour Currently seeking an experienced law clerk to join our growing team The remainder of the week can be worked remotely Qualifications: Law Clerk diploma or equivalent experience.",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "30a61b1a7d5f4e1a",
+    "title": "Law Clerk - Toronto (Hybrid)",
+    "company": "TSI - Transworld System, Inc",
+    "location": "Toronto, ON, Canada",
+    "url": "https://careers.tsico.com/jobs/3382/job",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=1879e08e5aca6974",
+      "https://careers.tsico.com/jobs/3382/job"
+    ],
+    "posted_date": "2026-11-07",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "deadline": "2027-11-06",
+    "employer_posted_date": "2026-11-06",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified",
+      "Employment type not established"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "As a Customer Experience Associate, you are the face, character and heart of our branches. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone.",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "d6fb00e2eb68c4ee",
+    "title": "Customer Experience Associate - Markham Town Square (30 hours/week)",
+    "company": "Scotiabank",
+    "location": "Markham, ON, Canada",
+    "url": "https://jobs.scotiabank.com/job/Markham-Customer-Experience-Associate-Markham-Town-Square-%2830-hoursweek%29-ON-L3R0Y8/607771417",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=12bd8de5006f50db",
+      "https://jobs.scotiabank.com/job/Markham-Customer-Experience-Associate-Markham-Town-Square-%2830-hoursweek%29-ON-L3R0Y8/607771417"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "The Document Controller will support the Elevated Guideways and Stations Contract (“EGS”) of The Ontario Line (\"OL\"). The NC project has been divided into two main progressive design-build contracts: (1) the Elevated Guideways and Stations Contract (“EGS”) and the Pape Tunnel and Underground Station Contract (“PTUS”), with supporting Early Works. Facilitate effective communication and collaboration among project teams, subcontractors, consultants, and other stakeholders regarding document control requirements and procedures. Ensure compliance with regulatory requirements, contractual obligations, and industry standards related to document management and control. Work collaboratively with the Contracting",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "ab6544d274acb772",
+    "title": "Document Controller",
+    "company": "Amico Affiliates",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487934547",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487934547"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Communications and marketing",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 85.00 / hourly",
+    "evidence": "Qualifications Experience working with children Job Types: Part-time, Permanent Pay: From $85.00 per hour",
+    "match_reason": "Title aligns with the communications and marketing search; requirements need individual review",
+    "id": "93501b8ea34604a3",
+    "title": "Communication Disorders Assistant (CDA)",
+    "company": "SpeakAble Speech Therapy Services",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=0d30debf12b52c85",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=0d30debf12b52c85"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Communications and marketing",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 80,000.00–100,000.00 / yearly",
+    "evidence": "Three to five years of relevant experience in financial planning and analysis, commercial finance or brand finance Experience with SAP and financial reporting systems The standard hiring range for this role is $80,000-$100,000 CAD per annum with a 10% performance-based bonus. The final agreement upon salary may vary based on market location and factors such as job-related knowledge, skills and experience.",
+    "match_reason": "Title aligns with the communications and marketing search; requirements need individual review",
+    "id": "fc44cbe1daf17e06",
+    "title": "Assistant Finance Manager – Brand Marketing",
+    "company": "Lindt & Sprüngli",
+    "location": "Toronto, ON, Canada",
+    "url": "https://lindtspruengli.wd103.myworkdayjobs.com/en-US/LindtSpruengliGroupCareers/job/Toronto-Canada/Assistant-Finance-Manager---Brand-Marketing_JR104339-1",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=94d92980ddddaece",
+      "https://lindtspruengli.wd103.myworkdayjobs.com/en-US/LindtSpruengliGroupCareers/job/Toronto-Canada/Assistant-Finance-Manager---Brand-Marketing_JR104339-1"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "deadline": null,
+    "employer_posted_date": "2026-11-09",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Communications and marketing",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 18.00 / hourly",
+    "evidence": "Full-Time / Part-Time Experience with photo and video editing software Full-time or Part-time Experience Previous experience in any of the following is an asset:",
+    "match_reason": "Title aligns with the communications and marketing search; requirements need individual review",
+    "id": "6e3f925d356ae0c0",
+    "title": "Front Desk & Social Media Coordinator",
+    "company": "Prima Academy",
+    "location": "Markham, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=63930e46dcadb502",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=63930e46dcadb502"
+    ],
+    "posted_date": "2026-11-08",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Communications and marketing",
+    "tier": "Review",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
+    "match_reason": "Title aligns with the communications and marketing search; requirements need individual review",
+    "id": "b7668255ab66cdde",
+    "title": "Marketing Specialist",
+    "company": "Roylo Partners",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487925945",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487925945"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Communications and marketing",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Marketing Assistant | Toronto, ON | Full-time | Monday–Friday | 8:30am–5:00pm | Office-based | Permanent position This is an opportunity to build practical experience while contributing to a team that values communication, organization, and fresh ideas. Previous experience in marketing, sales, retail, customer service, events, communications, or administration is beneficial. Employment: Full-time, permanent Compensation: Competitive pay based on experience",
+    "match_reason": "Title aligns with the communications and marketing search; requirements need individual review",
+    "id": "e61c96e6d86f16a9",
+    "title": "Marketing Assistant",
+    "company": "Westlyn",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487692465",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487692465"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Language requirement: check whether French is mandatory",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Previous experience in the investment industry. Experience with systems and data for tracking / reporting on progress and improving processes. We welcome applications from all qualified individuals and will provide accommodation upon request for candidates participating in all aspects of the recruitment process, in accordance with applicable human rights and accessibility legislation. The hiring range for this position is $62,500 - $73,903. The final compensation offered will be based on the successful candidate’s knowledge, skills, education, training, experience, internal equity, and external market considerations.",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "b18ae07dafec4c7b",
+    "title": "Member Services Coordinator (12 month contract)",
+    "company": "CIRO / OCRI",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4485265510",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4485265510"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Communications and marketing",
+    "tier": "Review",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Language requirement: check whether French is mandatory"
+    ],
+    "salary": "USD 26.49–37.34 / hourly",
+    "evidence": "$26.49 per hour Support customer experience initiatives, including trip planning, passenger assistance requests, lost and found inquiries, and customer escalations. What Skills and Qualifications Do I Need? Demonstrated experience in customer service, contact centre operations, transit operations, or a similar fast-paced operational environment. Proficiency with Microsoft Office Suite (Word, Excel, PowerPoint, Outlook) and experience using multiple computer applications, digital communication platforms, and technology tools.",
+    "match_reason": "Title aligns with the communications and marketing search; requirements need individual review",
+    "id": "ca066868790ec5e3",
+    "title": "Operational Communication Coordinator",
+    "company": "Metrolinx",
+    "location": "Greater Toronto Area, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487928713",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487928713"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 45,540.24–76,489.10 / yearly",
+    "evidence": "We offer a competitive salary based on experience and paid vacation. We are currently recruiting for an experienced Commercial Litigation Legal Assistant. While the role will primarily be litigation based, there are additional opportunities to gain experience in other areas of the law. Qualifications: · 2+ years of experience in the legal industry",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "3249806e53890836",
+    "title": "Commercial Litigation Legal Assistant",
+    "company": "Blaney McMurtry LLP",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=f1fab384ca1e09eb",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=f1fab384ca1e09eb"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 18.00 / hourly",
+    "evidence": "Job Types: Full-time, Permanent Pay: From $18.00 per hour",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "180274865f2b42a4",
+    "title": "Immigration Legal Assistant Position",
+    "company": "Fourway Immigration Services Inc",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=25a451f044ba6b9f",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=25a451f044ba6b9f"
+    ],
+    "posted_date": "2026-11-07",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Experience requirement: review the stated years carefully",
+      "Fallback employment: renewal or conversion not assumed",
+      "Check law-clerk credential requirements"
+    ],
+    "salary": "CAD 60,000.00–75,000.00 / yearly",
+    "evidence": "Law Clerk (1 year contract) We currently have a vacancy for a Law Clerk (1 year contract) to support the firm’s lawyers on civil litigation matters, construction law and/or labour law matters. Qualifications: Minimum of 3 years’ experience as a litigation law clerk Construction lien experience is an asset, but not required",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "541897d568ce6074",
+    "title": "Litigation Law Clerk",
+    "company": "Rousseau Mazzuca LLP",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=06e3c0a001af3292",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=06e3c0a001af3292"
+    ],
+    "posted_date": "2026-11-06",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Review",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Experience requirement: review the stated years carefully"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "This is a great opportunity for a Legal Assistant with a minimum of five years of legal experience who enjoys taking ownership and being the go-to person for their team. The ideal candidate will have strong legal billing experience and advanced proficiency with Adobe and Excel. Salary: Up to $80K (Based on Experience) Qualifications Minimum of 5 years' experience as a legal assistant in litigation",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "ea2d94a22ba14859",
+    "title": "Litigation Legal Assistant",
+    "company": "Cartel Inc.",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487948445",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487948445"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "The successful candidate will have the opportunity to work with different lawyers across the firm, gaining exposure to diverse practice areas and building valuable experience. Minimum of five years’ Litigation legal experience Previous experience with CaseCenter The salary range for this position is $60,000- $75,000 annually; the base pay offered may vary depending on job-related knowledge, skills, experience, and internal and market equity.",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "4f0b99044c7fab4b",
+    "title": "Floater Legal Assistant - Litigation",
+    "company": "Aird & Berlis LLP",
+    "location": "Greater Toronto Area, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487419509",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487419509"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Check law-clerk credential requirements"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "The Group owns and operates approximately $268 billion of assets representing the most iconic properties in the world’s most dynamic markets. and other jurisdictional entity formations and state qualifications, if required, and the dissolution of entities Qualifications: Minimum of 2-3 years of post-qualification experience Experience with Diligent corporate database (fka Blueprint) and/or iManage document management system a plus",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "1ff0aba37b1c85f4",
+    "title": "Law Clerk",
+    "company": "Brookfield",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4471667907",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4471667907"
+    ],
+    "posted_date": "2026-11-06",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Legal support",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Check law-clerk credential requirements"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Full-Time, Permanent Salary: $75,000 – $85,000 per year The role combines two areas: Corporate and Board work and contracts and legal operations. Contracts and Legal Operations:",
+    "match_reason": "Title aligns with the legal support search; requirements need individual review",
+    "id": "072c39abe14f6ae5",
+    "title": "Law Clerk",
+    "company": "ERCO Worldwide",
+    "location": "Mississauga, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4488085032",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4488085032"
+    ],
+    "posted_date": "2026-11-06",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Programs and community",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Language requirement: check whether French is mandatory"
+    ],
+    "salary": "CAD 23.64–29.15 / hourly",
+    "evidence": "The Medical Withdrawal Service (MWS) is currently seeking a full-time, permanent Program Assistant. Qualifications 6 months to 1 year of related experience is required. Salary Range: $23.64 - $29.15 per hour CAMH strongly encourages applications from candidates who reflect the diversity of the communities we serve, including First Nations, Métis, and Inuit Peoples; Black and other racialized communities; LGBTQ2S+ communities; women; and people with disabilities, including those with lived experience of mental health and substance use challenges.",
+    "match_reason": "Title aligns with the programs and community search; requirements need individual review",
+    "id": "0560474a2e846f21",
+    "title": "Program Assistant - Medical Withdrawal Service",
+    "company": "CAMH",
+    "location": "Toronto, ON, Canada",
+    "url": "https://iaemup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1961",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=99f66227149453e4",
+      "https://iaemup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1961"
+    ],
+    "posted_date": "2026-11-06",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 18.00–20.00 / hourly",
+    "evidence": "Premier Racquet Clubs (PRC) is building a great tennis experience, a culture that is friendly, encouraging and enjoyable. The Member Service Associate is comfortable with computer applications and is experienced in customer service and problem solving to provide a courteous, professional environment for members and guests. Takes the initiative to deliver service excellence with PRCs wide range of offerings to guide members and guests through their tennis experience Qualifications 3+ years previous administrative and front-line customer service experience required",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "1c0e8916695cfbfb",
+    "title": "Member Services Associate - Brampton Gore Meadows",
+    "company": "Premier Racquet Clubs",
+    "location": "Brampton, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=c7ab30e2604bbbb1",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=c7ab30e2604bbbb1"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commission-based compensation: verify guaranteed base pay",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Opportunity to earn $300+ per day based on performance. Job Types:** Full-time, Part-time Pay: Up to $300.00 per day",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "e8ffb91f98ac5994",
+    "title": "Customer Experience Associate (Best For Students)",
+    "company": "KLM Detailing",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=46cf257a6b3ed2eb",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=46cf257a6b3ed2eb"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Remote claimed by source: confirm Ontario eligibility and office visits",
+      "Employment type not established"
+    ],
+    "salary": "CAD 53,000.00–60,000.00 / yearly",
+    "evidence": "SKILLS AND EXPERIENCE REQUIRED: 3+ years’ customer service experience in Industrial Supplies or related field highly preferred REMOTE/HYBRID WORK REQUIREMENTS**: In order to work remotely the Employee Must: For more details, see the Remote Work Policy in the Employee Handbook. Target compensation range is $53k-$60k annually.",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "380f5f76ac33f784",
+    "title": "Customer Service Representative",
+    "company": "DGI Supply",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://recruiting.ultipro.com/DOA1000/JobBoard/2aaa2d54-9006-b59d-8eba-abacd3a3c243/OpportunityDetail",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=204f7069f3aad5e1",
+      "https://recruiting.ultipro.com/DOA1000/JobBoard/2aaa2d54-9006-b59d-8eba-abacd3a3c243/OpportunityDetail"
+    ],
+    "posted_date": "2026-11-06",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "missing_since": "2026-11-09",
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Language requirement: check whether French is mandatory",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 17.60 / hourly",
+    "evidence": "You’ll contribute to a helpful, consistent service experience while keeping customer information clear and accurate. Preferred: Customer service or sales experience, including thoughtful upselling, is helpful; bilingual or multilingual communication, particularly in English and Spanish, can help you assist a wider range of customers. Pay: $17.60 per hour",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "2a8507205cb702c8",
+    "title": "CSR - Customer Service Representative",
+    "company": "Circle K",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=023a7baa92140eb0",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=023a7baa92140eb0"
+    ],
+    "posted_date": "2026-11-03",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Priority",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "6c3b715326c7d714",
+    "title": "Full Time Customer Service Instant Return Representative",
+    "company": "Hertz",
+    "location": "Etobicoke, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487655676",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487655676"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Toronto or Waterloo, hybrid | Full-time | Reports to the Manager, Customer Support Compensation: $60,000 to $80,000 CAD base salary Hybrid in Toronto or Waterloo, remote if that's where you do your best work Pay: $60,000 to $80,000 CAD base salary We will work with you to make the necessary accommodations to ensure a fair and positive experience for all applicants.",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "1ae24fdb553fdeb8",
+    "title": "Customer Support Specialist",
+    "company": "Pontosense",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487916247",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487916247"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Unverified",
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4487916247 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-09T18:08:18-05:00"
+  },
+  {
+    "category": "Programs and community",
+    "tier": "Priority",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Your responsibilities will include: Providing detailed information to students on program and/or course requirements Scheduling appointments for prospective students, applicants, and current students to address individual needs Acting as the first point of contact for general enquiries Receiving and passing on application documents for review; collating and organizing data for various reports Tracking the status of applications Providing detailed information on eligibility requirements, procedures and deadlines Verifying the accuracy and completeness of documents Providing basic support and general referrals to individuals in distress Essential Qualifications: Advanced College Diploma (3 years)",
+    "match_reason": "Title aligns with the programs and community search; requirements need individual review",
+    "id": "c766e78b1475bb50",
+    "title": "Graduate Program Assistant (1-Year Term)",
+    "company": "University of Toronto",
+    "location": "Toronto, ON, Canada",
+    "url": "https://jobs.utoronto.ca/job/Toronto-Graduate-Program-Assistant-%281-Year-Term%29-ON/607857617",
+    "urls": [
+      "https://jobs.utoronto.ca/job/Toronto-Graduate-Program-Assistant-%281-Year-Term%29-ON/607857617"
+    ],
+    "posted_date": null,
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-09T18:08:18-05:00",
+    "last_seen": "2026-11-09T18:08:18-05:00",
+    "sources": [
+      "University of Toronto"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-09T18:08:18-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-09T18:08:18-05:00"
   }
 ]
