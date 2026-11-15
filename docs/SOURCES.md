@@ -1,8 +1,8 @@
 # Source health
 
-[Home](../README.md) · Last collection attempt: 2026-11-14T13:50:10-05:00
+[Home](../README.md) · Last collection attempt: 2026-11-15T14:27:25-05:00
 
-Views generated: 2026-11-14T13:50:10-05:00. Rendering alone does not refresh source checks.
+Views generated: 2026-11-15T14:27:25-05:00. Rendering alone does not refresh source checks.
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
@@ -10,7 +10,7 @@ Views generated: 2026-11-14T13:50:10-05:00. Rendering alone does not refresh sou
 | JobSpy: office coordinator / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: records clerk / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: document management / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: communications assistant / Toronto, ON | ok | 30 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: communications assistant / Toronto, ON | ok | 29 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: legal assistant / Brampton, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: program assistant / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: customer service representative / Mississauga, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |

@@ -827,7 +827,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T15:54:39-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -2441,7 +2441,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -3184,7 +3184,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -3406,7 +3406,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -4298,7 +4298,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -4329,7 +4329,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -4359,7 +4359,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -4542,7 +4542,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -5280,7 +5280,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -5315,10 +5315,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Closed",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Legal support",
@@ -5346,10 +5346,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Closed",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Legal support",
@@ -5407,10 +5407,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4480245308 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Legal support",
@@ -5464,14 +5464,14 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-25T13:12:29-04:00",
+    "last_verified": "2026-11-15T14:27:25-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Legal support",
@@ -5685,9 +5685,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Administration",
@@ -5715,10 +5715,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -5747,10 +5747,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Closed",
     "missing_since": "2026-10-25",
     "verification_note": "Posting URL returned 404",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -5869,12 +5869,13 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-20",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-15T14:27:25-05:00",
+    "missing_since": "2026-11-15"
   },
   {
     "category": "Client services",
@@ -5902,9 +5903,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -5934,9 +5935,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -5966,9 +5967,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6028,12 +6029,12 @@
     "sources": [
       "indeed"
     ],
-    "status": "Closed",
-    "last_verified": "2026-10-25T13:12:29-04:00",
-    "deadline": "2026-10-30",
-    "employer_posted_date": "2026-10-19",
-    "verification_note": "Previously observed employer deadline has passed",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "deadline": "2026-11-20",
+    "employer_posted_date": "2026-11-10",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6062,9 +6063,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6122,9 +6123,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6155,12 +6156,13 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "deadline": null,
     "employer_posted_date": "2026-09-17",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Posting URL returned 410",
+    "last_checked": "2026-11-15T14:27:25-05:00",
+    "missing_since": "2026-11-15"
   },
   {
     "category": "Client services",
@@ -6188,9 +6190,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6249,10 +6251,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6281,10 +6283,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6312,10 +6314,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-10-25T13:12:29-04:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6464,10 +6466,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6495,10 +6497,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6526,10 +6528,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6588,10 +6590,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-10-25T13:12:29-04:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6620,10 +6622,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -6682,21 +6684,20 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Closed",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
-    "tier": "Review",
-    "employment": "Unspecified",
+    "tier": "Priority",
+    "employment": "fulltime",
     "flags": [
-      "Check required experience and software skills against your résumé",
-      "Employment type not established"
+      "Check required experience and software skills against your résumé"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "",
+    "evidence": "Education, Experience and Technical skills: MS Office experience - specifically Excel is essential. Competitive salary The final offer may vary and can be higher based on relevant skills, experience, location, and market conditions. The base salary range for this position is: $40,000 CAD - $44,000 CAD",
     "match_reason": "Title aligns with the client services search; requirements need individual review",
     "id": "070b34b4cf9d5619",
     "title": "Client Support Specialist",
@@ -6709,7 +6710,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-22T16:05:31-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -6807,10 +6808,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-10-25T13:12:29-04:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Administration",
@@ -6901,7 +6902,7 @@
     ],
     "status": "Closed",
     "verification_note": "Explicit closure message on posting page",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -7051,9 +7052,9 @@
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
-    "status": "Stale — recheck",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "status": "Closed",
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -7082,9 +7083,9 @@
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
-    "status": "Stale — recheck",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "status": "Closed",
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -7113,9 +7114,9 @@
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
-    "status": "Stale — recheck",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "status": "Closed",
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -7144,9 +7145,9 @@
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
-    "status": "Stale — recheck",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "status": "Closed",
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -7177,7 +7178,7 @@
     ],
     "status": "Closed",
     "verification_note": "Explicit closure message on posting page",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Administration",
@@ -7506,9 +7507,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Administration",
@@ -7566,9 +7567,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "status": "Closed",
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -7631,12 +7632,12 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-19",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Administration",
@@ -7694,9 +7695,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "status": "Closed",
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -7725,9 +7726,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Legal support",
@@ -7816,9 +7817,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -8150,7 +8151,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-23T07:08:59-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -8695,7 +8696,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-23T07:08:59-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -9365,7 +9366,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-23T13:57:15-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -9580,7 +9581,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T12:54:23-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -9745,7 +9746,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Request failed: HTTPSConnectionPool(host='tre.tbe.taleo.net', port=443): Max retries exceeded with url: /tre01/ats/careers/v2/viewRequisition (Caused by Res",
     "last_checked": "2026-11-08T13:28:26-05:00"
   },
@@ -9868,7 +9869,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T12:54:23-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -10058,7 +10059,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-26T15:31:52-04:00"
   },
@@ -10329,10 +10330,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4446971036"
     ],
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-11-15",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T12:54:23-04:00",
-    "last_seen": "2026-10-30T14:49:06-04:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -10580,7 +10581,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T12:54:23-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -10865,9 +10866,12 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
-    "verification_note": "HTTP 403",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "status": "Posting verified",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-15T14:27:25-05:00",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "deadline": null,
+    "employer_posted_date": "2026-10-21"
   },
   {
     "category": "Administration",
@@ -10894,10 +10898,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Records and documents",
@@ -10958,9 +10962,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Legal support",
@@ -11083,10 +11087,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-10-25T13:12:29-04:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -11178,10 +11182,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Client services",
@@ -11209,10 +11213,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:12:29-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-25T13:12:29-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   },
   {
     "category": "Administration",
@@ -11393,7 +11397,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-26T15:31:52-04:00"
   },
@@ -11483,7 +11487,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-27T14:54:54-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-27T14:54:54-04:00"
@@ -11543,7 +11547,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-26T15:31:52-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-26T15:31:52-04:00"
@@ -11637,7 +11641,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-26T15:31:52-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-26T15:31:52-04:00"
@@ -11668,7 +11672,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -11698,7 +11702,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -11821,7 +11825,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-27T14:54:54-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-27T14:54:54-04:00"
@@ -12008,7 +12012,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-26T15:31:52-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-26T15:31:52-04:00"
@@ -12320,7 +12324,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-27T14:54:54-04:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -12354,7 +12358,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -12505,7 +12509,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -12537,7 +12541,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -12567,7 +12571,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -12599,7 +12603,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-27T14:54:54-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-27T14:54:54-04:00"
@@ -12752,7 +12756,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -12781,7 +12785,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-27T14:54:54-04:00"
   },
@@ -12964,7 +12968,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-27T14:54:54-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-27T14:54:54-04:00"
@@ -12995,7 +12999,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-27T14:54:54-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -13029,7 +13033,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T15:04:21-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-28T15:04:21-04:00"
@@ -13156,7 +13160,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T15:04:21-04:00",
     "deadline": "2026-11-27",
     "employer_posted_date": "2026-10-26",
@@ -13716,7 +13720,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-27T14:54:54-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-26",
@@ -13750,7 +13754,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-28T15:04:21-04:00"
   },
@@ -13968,7 +13972,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-28T15:04:21-04:00"
   },
@@ -14127,7 +14131,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-28T15:04:21-04:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -14315,7 +14319,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T15:04:21-04:00",
     "deadline": "2027-01-25",
     "employer_posted_date": "2026-10-27",
@@ -14349,7 +14353,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-28T15:04:21-04:00"
   },
@@ -14843,7 +14847,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T15:04:21-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-28T15:04:21-04:00"
@@ -15485,7 +15489,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-29T15:11:06-04:00"
   },
@@ -15580,7 +15584,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "employer_posted_date": "2026-10-27",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
     "last_verified": "2026-10-31T13:55:02-04:00",
@@ -15776,7 +15780,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-28T15:04:21-04:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -15934,7 +15938,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-29T15:11:06-04:00"
   },
@@ -16639,7 +16643,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-29T15:11:06-04:00"
   },
@@ -17169,7 +17173,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-30T14:49:06-04:00"
   },
@@ -17198,7 +17202,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-29T15:11:06-04:00"
   },
@@ -17538,7 +17542,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-30T14:49:06-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-30T14:49:06-04:00"
@@ -17723,7 +17727,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-30T14:49:06-04:00"
   },
@@ -17909,7 +17913,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-30T14:49:06-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-30T14:49:06-04:00"
@@ -18288,7 +18292,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-10-30T14:49:06-04:00"
   },
@@ -18845,7 +18849,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-31T13:55:02-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-10-31T13:55:02-04:00"
@@ -19709,7 +19713,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-31T13:55:02-04:00"
   },
@@ -20022,7 +20026,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-10-31T13:55:02-04:00"
   },
@@ -20671,7 +20675,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -20703,7 +20707,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -20735,7 +20739,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -20766,7 +20770,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-29",
@@ -20800,7 +20804,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-01T13:31:31-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-01T13:31:31-05:00"
@@ -20891,7 +20895,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4485966465 (Caused by ResponseError('too m",
     "last_checked": "2026-11-01T13:31:31-05:00"
   },
@@ -22809,7 +22813,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:16:37-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -25245,7 +25249,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:31:16-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27736,7 +27740,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T15:04:19-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29384,7 +29388,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-07T13:15:54-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -29784,7 +29788,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -29845,7 +29849,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29877,7 +29881,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29907,7 +29911,7 @@
     "posted_date": "2026-11-08",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -29938,7 +29942,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -29972,7 +29976,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -30036,7 +30040,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -30127,7 +30131,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30157,7 +30161,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30187,7 +30191,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30317,7 +30321,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30504,7 +30508,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30566,7 +30570,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -30657,7 +30661,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30687,7 +30691,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30935,7 +30939,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30995,7 +30999,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:08:18-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -31182,7 +31186,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -31213,7 +31217,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -31243,7 +31247,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31304,7 +31308,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -31334,7 +31338,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -31393,7 +31397,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31456,7 +31460,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -31488,7 +31492,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -31519,7 +31523,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -31577,7 +31581,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31639,7 +31643,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31669,7 +31673,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31733,7 +31737,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -31887,7 +31891,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31918,7 +31922,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31949,7 +31953,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31981,7 +31985,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Employer release date",
     "first_seen": "2026-11-10T15:35:24-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
@@ -32167,7 +32171,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -32227,7 +32231,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -32354,7 +32358,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -32475,7 +32479,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -32505,7 +32509,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -32627,7 +32631,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -32781,7 +32785,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -32811,7 +32815,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -32842,7 +32846,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -32875,7 +32879,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -32974,7 +32978,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33004,7 +33008,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33036,7 +33040,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33066,7 +33070,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33164,7 +33168,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33194,7 +33198,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33223,7 +33227,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33253,7 +33257,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33283,7 +33287,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33314,7 +33318,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33344,7 +33348,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33404,7 +33408,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33434,7 +33438,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33465,7 +33469,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33495,7 +33499,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33525,7 +33529,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33555,7 +33559,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33615,7 +33619,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33646,7 +33650,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33676,7 +33680,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33708,7 +33712,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33738,7 +33742,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33768,7 +33772,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33831,7 +33835,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33861,7 +33865,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33892,7 +33896,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -33924,7 +33928,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33955,7 +33959,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34016,7 +34020,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34049,7 +34053,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-12T16:03:52-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34079,7 +34083,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34110,7 +34114,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34177,7 +34181,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34207,7 +34211,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34238,7 +34242,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34273,7 +34277,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34432,7 +34436,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -34463,7 +34467,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -34494,7 +34498,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -34617,7 +34621,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -34649,7 +34653,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -34679,7 +34683,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -34709,7 +34713,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -34773,7 +34777,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34805,7 +34809,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34836,7 +34840,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Employer release date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
@@ -34868,7 +34872,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Employer release date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
@@ -34900,7 +34904,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Employer release date",
     "first_seen": "2026-11-12T16:03:52-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "SmartRecruiters: HaltonHealthcare1"
     ],
@@ -34931,7 +34935,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34963,7 +34967,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -34992,7 +34996,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35022,7 +35026,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35055,7 +35059,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35120,7 +35124,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35152,7 +35156,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35181,7 +35185,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35211,7 +35215,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35242,7 +35246,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -35304,7 +35308,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35336,7 +35340,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35368,7 +35372,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35397,7 +35401,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35426,7 +35430,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-13T15:38:17-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35456,7 +35460,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35487,7 +35491,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35518,7 +35522,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35550,7 +35554,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35613,7 +35617,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35642,7 +35646,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35673,7 +35677,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35703,7 +35707,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35734,7 +35738,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35766,7 +35770,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35796,7 +35800,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35857,7 +35861,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -35919,7 +35923,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35949,7 +35953,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -35980,7 +35984,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -36011,7 +36015,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -36042,7 +36046,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -36132,7 +36136,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -36194,7 +36198,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36225,7 +36229,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36256,7 +36260,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "City of Mississauga"
     ],
@@ -36286,7 +36290,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -36316,7 +36320,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:38:17-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -36563,7 +36567,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36624,7 +36628,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36656,7 +36660,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -36688,7 +36692,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -36718,7 +36722,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -36748,7 +36752,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -36779,7 +36783,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36810,7 +36814,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36842,7 +36846,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36908,7 +36912,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36938,7 +36942,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -36972,7 +36976,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37004,7 +37008,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37034,7 +37038,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -37066,7 +37070,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37096,7 +37100,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -37127,7 +37131,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37161,7 +37165,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37226,7 +37230,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37257,7 +37261,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37321,7 +37325,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37356,7 +37360,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "indeed"
     ],
@@ -37386,7 +37390,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -37418,7 +37422,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -37449,7 +37453,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -37480,7 +37484,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
       "linkedin"
     ],
@@ -37537,18 +37541,516 @@
     "location": "Mississauga, ON, Canada",
     "url": "https://jobs.mississauga.ca/job/Mississauga-Administrative-Assistant-Recreation-&-Culture-ON/608033217",
     "urls": [
+      "https://ca.indeed.com/viewjob?jk=aa81bdd64472d701",
       "https://jobs.mississauga.ca/job/Mississauga-Administrative-Assistant-Recreation-&-Culture-ON/608033217"
     ],
-    "posted_date": null,
+    "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:50:10-05:00",
-    "last_seen": "2026-11-14T13:50:10-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
     "sources": [
-      "City of Mississauga"
+      "City of Mississauga",
+      "indeed"
     ],
     "status": "Posting verified",
     "last_verified": "2026-11-14T13:50:10-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-14T13:50:10-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 68,000.00–93,500.00 / yearly",
+    "evidence": "Our unique position as one of the country's largest employers, coupled with our commitment to positively impact the lives of all Canadians, provides our colleagues a range of opportunities and experiences to help Canadians Live Life Well®. Full-time | Hybrid (4 days in office – flexibility on primary work location, with travel between our Brampton and Toronto offices as needed to support executive schedules and priorities) Our unique position as one of the country's largest employers, coupled with our commitment to positively impact the lives of all Canadians, provides our",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "357002244d1bec53",
+    "title": "Executive Assistant, Risk Advisory",
+    "company": "Loblaw",
+    "location": "Brampton, ON, Canada",
+    "url": "https://careers.loblaw.ca/executive-assistant-risk-advisory/job/R2000733375",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=95a84777cf0e68b8",
+      "https://careers.loblaw.ca/executive-assistant-risk-advisory/job/R2000733375"
+    ],
+    "posted_date": "2026-11-13",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "deadline": null,
+    "employer_posted_date": "2026-11-13",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. Full-Time, Permanent $19.68/hr. Prior experience in accounting and administrative support is preferred Permanent",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "60a0968a3c3c66d5",
+    "title": "Automotive General Office Assistant",
+    "company": "UPS",
+    "location": "Concord, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4490212388",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4490212388"
+    ],
+    "posted_date": "2026-11-15",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Driving mentioned: check whether required or preferred",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 50,000.00–55,000.00 / yearly",
+    "evidence": "Monitor and track contract expiration and renewal dates for external service agreements Qualifications: Diploma in social services, financial administration, or in a related field or an equivalent combination of education and/or experience. Administrative/office management experience, including data entry, financial management and statistical reporting. A $2,000,000 minimum liability car insurance coverage is also mandatory.",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "9a85ad292ba20c65",
+    "title": "Finance and Administrative Coordinator - Youth Services",
+    "company": "Our Place Peel",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=608950",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=66e08ca75ae8229c",
+      "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=608950"
+    ],
+    "posted_date": "2026-11-11",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified"
+    ],
+    "salary": "CAD 39,000.00–42,000.00 / yearly",
+    "evidence": "Every day the expertise of our team of experienced Realtors are put to the test to offer an unprecedented level of customer service and solutions. We will only consider candidates with at least one year of experience working at a real estate brokerage**. Qualifications: High level of computer proficiency including exceptional Microsoft Office skill, experience within a networked environment, and familiarity with Cloud based & Mobile based applications such as Evernote and Dropbox and/or the willingness to learn or upgrade knowledge on any job required technologies or software applications on",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "20ee5e4fc542a8ab",
+    "title": "Real Estate Office Coordinator",
+    "company": "RE/MAX Hallmark Realty Inc., Brokerage",
+    "location": "Oakville, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=c4d61dec750d726d",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=c4d61dec750d726d"
+    ],
+    "posted_date": "2026-11-10",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Full-Time, Permanent $19.68/hr. Prior experience in accounting and administrative support is preferred Permanent",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "6936943088f5c3c0",
+    "title": "Automotive General Office Assistant",
+    "company": "UPS",
+    "location": "Concord, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4490221180",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4490221180"
+    ],
+    "posted_date": "2026-11-15",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Commute review: transit from Brampton not verified"
+    ],
+    "salary": "CAD 55,000.00–80,000.00 / yearly",
+    "evidence": "For over 50 years, our organization has built a reputation for delivering exceptional customer service, premium automotive experiences, and industry-leading standards. Ferri Automotive Group** is currently seeking to hire an experienced **Deal Clerk.** The right candidate will be encircled by over 50 years of experience, under 15 premium dealerships offering the most extensive selection of luxury, sport and quality automobiles in the local area. Qualifications Previous experience as a Deal Clerk, Deal Administrator, or in a similar automotive dealership accounting role is required. Experience with dealership management software's is required.",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "1e6921650fe84785",
+    "title": "Deal Clerk",
+    "company": "R. Ferri Automotive",
+    "location": "Vaughan, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=f6532ad7c4d4af4d",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=f6532ad7c4d4af4d"
+    ],
+    "posted_date": "2026-11-13",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 42,000.00–45,000.00 / yearly",
+    "evidence": "Experience Proven experience 2-3 years in accounts receivable collections is a must. Previous customer service experience is an asset. Job Type: Full-time Pay: $42,000.00-$45,000.00 per year",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "5406179739555a04",
+    "title": "Accounts Receivable Collections Clerk",
+    "company": "a.p.i. Alarm Inc.",
+    "location": "North York, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=1f4da9cbc1c9fd2d",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=1f4da9cbc1c9fd2d"
+    ],
+    "posted_date": "2026-11-13",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Review",
+    "employment": "Unspecified",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Employment type not established"
+    ],
+    "salary": "CAD 50,000.00–60,000.00 / yearly",
+    "evidence": "Opportunity to work with an experienced operations team. Compensation: $50,000 - $60,000 Qualifications: Qualifications Previous experience in a scale house, shipping/receiving, logistics, manufacturing, recycling, metals, or industrial environment is considered an asset.",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "1675734518831adb",
+    "title": "Scale Clerk",
+    "company": "REAL ALLOY",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://career-realalloy.icims.com/jobs/3124/job",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=108589669d374297",
+      "https://career-realalloy.icims.com/jobs/3124/job"
+    ],
+    "posted_date": "2026-11-12",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 17.60 / hourly",
+    "evidence": "Full-Time | Dundas Deliver an exceptional customer experience on the sales floor Previous grocery or retail experience is an asset Employer-paid benefits for full-time employees All entry-level retail and kitchen roles begin at minimum wage ($17.60/hr).",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "208ff89e3422226c",
+    "title": "Grocery Clerk | Dundas",
+    "company": "Summerhill Market",
+    "location": "Toronto, ON, Canada",
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=592336",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=4152f0147c2eb422",
+      "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=592336"
+    ],
+    "posted_date": "2026-11-12",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 20,000.00–25,000.00 / yearly",
+    "evidence": "Through our fully integrated proprietary technology platform, we recover rare earths from end-of-life products and transform them into high-purity materials used to produce new permanent magnets. Qualifications & Experience Min 1 year of experience in accounts payable or a similar accounting role Experience working for a U.S.-based, publicly listed company with strong knowledge of U.S. Experience in manufacturing, industrial, or technology environments",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "1b74f1181a02936f",
+    "title": "Accounts Payable Clerk - Temp",
+    "company": "Cyclic Materials Inc.",
+    "location": "Toronto, ON, Canada",
+    "url": "https://grnh.se/r87pk7xa9us",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=e647cf7dfbd6ed07",
+      "https://grnh.se/r87pk7xa9us"
+    ],
+    "posted_date": "2026-11-11",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Records and documents",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 40,000.00–80,000.00 / yearly",
+    "evidence": "The ideal candidate should have a minimum of three (3) years of recent and relevant experience in personal injury litigation. At least three years of experience in Plaintiff personal injury work; Job Type: Full-time Pay: $40,000.00-$80,000.00 per year Experience:",
+    "match_reason": "Title aligns with the records and documents search; requirements need individual review",
+    "id": "5e94aef830a2ae3e",
+    "title": "Personal Injury Tort and Accident Benefit Clerk",
+    "company": "Shah Eubanks Professional Corporation",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=bd965e81964b9717",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=bd965e81964b9717"
+    ],
+    "posted_date": "2026-11-09",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 65,000.00–85,000.00 / yearly",
+    "evidence": "$65,000 - $85,000 CADThe pay details posted reflect a temporary market premium specific to this role that is reassessed annually. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs. At TD Bank Group (TD), everything",
+    "match_reason": "Title aligns with the administration search; requirements need individual review",
+    "id": "cedf7aa6cf4e4738",
+    "title": "Executive Assistant II",
+    "company": "TD",
+    "location": "Toronto, ON, Canada",
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Executive-Assistant--II_R_1522217",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=3bbfb556d37d16ef",
+      "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Executive-Assistant--II_R_1522217"
+    ],
+    "posted_date": "2026-11-13",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "deadline": "2026-11-25",
+    "employer_posted_date": "2026-11-13",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Programs and community",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 60,000.00–65,000.00 / yearly",
+    "evidence": "This is a mid-level, execution-focused contract role ideal for an early-career candidate interested in food, operations, and large-scale menu development. 2+ years of experience in food, operations, coordination, or administrative roles Work Hard & Have Fun*** - From team socials to engaging company days, you'll have plenty of opportunity to experience the fun! This includes tools that screen and assess candidate qualifications based on the requirements for this role.",
+    "match_reason": "Title aligns with the programs and community search; requirements need individual review",
+    "id": "1fbddfe905909399",
+    "title": "Culinary & Menu Operations Assistant (12 months contract)",
+    "company": "HelloFresh",
+    "location": "Toronto, ON, Canada",
+    "url": "https://grnh.se/fdtf9puh1us",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=5c555a9afbe8754c",
+      "https://grnh.se/fdtf9puh1us"
+    ],
+    "posted_date": "2026-11-12",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "deadline": null,
+    "employer_posted_date": "2026-11-12",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Programs and community",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 55,000.00–65,000.00 / yearly",
+    "evidence": "Employees work in a hybrid model balancing collaboration in our office and remote work. Qualifications Experience with accounting software and Microsoft Office Suite, including CoPilot and AI administration tools Compensation may vary within the same role based on experience, performance, specialized expertise, and overall impact. Compensation: $55,000 - $65,000 CAD / USD.",
+    "match_reason": "Title aligns with the programs and community search; requirements need individual review",
+    "id": "8ecc6aeb6dabd7f9",
+    "title": "Franchise Operations Coordinator",
+    "company": "WildBrain",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4483732419",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4483732419"
+    ],
+    "posted_date": "2026-11-11",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-15T14:27:25-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / casual / part-time — check details",
+    "flags": [
+      "Check required experience and software skills against your résumé",
+      "Fallback employment: renewal or conversion not assumed"
+    ],
+    "salary": "CAD 22.36 / hourly",
+    "evidence": "Follow established security procedures with respect to residents, tenants, guests, visitors and contractors signing in and out of premises Monitor the security system and follow established security procedures with respect to residents, tenants, guests, visitors and contractors signing in and out of premises EXPERIENCE & EDUCATION Previous Front Desk/Reception/Customer Service Experience is an asset Experience working with and a genuine empathy for seniors would be an asset",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "f095528c6cdd69d3",
+    "title": "Customer Service Representative",
+    "company": "BELMONT HOUSE",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=f6ff77736c63c8b3",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=f6ff77736c63c8b3"
+    ],
+    "posted_date": "2026-11-13",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-15T14:27:25-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Priority",
+    "employment": "fulltime",
+    "flags": [
+      "Check required experience and software skills against your résumé"
+    ],
+    "salary": "CAD 19.00–24.00 / hourly",
+    "evidence": "We partner closely with major insurance providers and rental companies to deliver seamless, stress-free repair experiences. Job Type:** Full-time, Permanent Salary Range:** $19-24/HR (Conditional on Experience) Computer Background:** Experience with Microsoft Outlook, Excel, and Quickbooks would be considered an asset. Experience in this position and industry would be ideal but not required.",
+    "match_reason": "Title aligns with the client services search; requirements need individual review",
+    "id": "ad5e564ddf3a7d37",
+    "title": "Customer Service Representative",
+    "company": "Color Magic",
+    "location": "Mississauga, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=151f705e445a9453",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=151f705e445a9453"
+    ],
+    "posted_date": "2026-11-11",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-15T14:27:25-05:00",
+    "last_seen": "2026-11-15T14:27:25-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-15T14:27:25-05:00"
   }
 ]
