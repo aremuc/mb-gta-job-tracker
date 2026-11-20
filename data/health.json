@@ -1,21 +1,25 @@
 [
   {
     "source": "JobSpy: administrative assistant / Brampton, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
+    "status": "degraded",
+    "count": 30,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {},
-    "seconds": 15.2,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 10.3,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: office coordinator / Mississauga, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
+    "status": "degraded",
+    "count": 20,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {},
-    "seconds": 17.2,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 0.3,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: records clerk / Mississauga, ON",
@@ -23,26 +27,30 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 17.1,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 11.8,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: document management / Toronto, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
+    "status": "degraded",
+    "count": 20,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {},
-    "seconds": 16.9,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 0.5,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: communications assistant / Toronto, ON",
-    "status": "ok",
-    "count": 30,
-    "errors": {},
+    "status": "degraded",
+    "count": 18,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {},
-    "seconds": 15.0,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 7.6,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: legal assistant / Brampton, ON",
@@ -50,31 +58,35 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 16.3,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 10.9,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: program assistant / Toronto, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
+    "status": "degraded",
+    "count": 20,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {},
-    "seconds": 14.7,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 0.4,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: customer service representative / Mississauga, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
+    "status": "degraded",
+    "count": 30,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
     "warnings": {},
-    "seconds": 15.7,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 5.6,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: client services representative / Ontario, Canada",
     "status": "degraded",
-    "count": 17,
+    "count": 7,
     "errors": {
       "linkedin": "response status code 429 (blocked: use a proxy)"
     },
@@ -83,46 +95,44 @@
         "is_remote isn't supported, ignoring it"
       ]
     },
-    "seconds": 13.3,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 0.3,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "JobSpy: administrative assistant / Ontario, Canada",
-    "status": "degraded",
-    "count": 13,
-    "errors": {
-      "linkedin": "response status code 429 (blocked: use a proxy)"
-    },
+    "status": "ok",
+    "count": 22,
+    "errors": {},
     "warnings": {
       "linkedin": [
         "is_remote isn't supported, ignoring it"
       ]
     },
-    "seconds": 11.0,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "seconds": 12.7,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "SmartRecruiters: WilliamOslerHealthSystem1",
     "status": "ok",
     "count": 0,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "SmartRecruiters: HaltonHealthcare1",
     "status": "ok",
-    "count": 12,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "count": 10,
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "City of Mississauga",
     "status": "ok",
     "count": 2,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "checked_at": "2026-11-20T16:30:04-05:00"
   },
   {
     "source": "University of Toronto",
     "status": "ok",
     "count": 7,
-    "checked_at": "2026-11-19T16:45:31-05:00"
+    "checked_at": "2026-11-20T16:30:04-05:00"
   }
 ]
